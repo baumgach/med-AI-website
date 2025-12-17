@@ -1,11 +1,10 @@
-## Welcome to the Masiello Group Website Repository
+## Medial AI Group Website Repository
 
 This website is built with [Quarto](https://quarto.org), an open source scientific and technical publishing system.
 
-Note: the `_utils` directory contains helper scripts used when migrating from Wowchemy / Hugo Academic to Quarto.
+It was forked from the Masiello Group Website: https://github.com/MasielloGroup/MasielloGroupWebsite
 
-
-## Notes to self
+## Carry-over notes from original repo
 
 ### Adding publications
 use `just newpub` for creation of new directory and input prompts for new record.
