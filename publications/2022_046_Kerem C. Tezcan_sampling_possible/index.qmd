@@ -1,0 +1,14 @@
+---
+title: "Sampling Possible Reconstructions of Undersampled Acquisitions in MR Imaging With a Deep Learned Prior"
+author: ["Kerem C. Tezcan", "Neerav Karani", "Christian F. Baumgartner", "Ender Konukoglu"]
+publication: "_IEEE Transactions on Medical Imaging_, **41** 1885-1896 (2022)"
+
+categories: []
+url_source: "https://doi.org/10.1109/tmi.2022.3150853"
+url_preprint: ""
+journ: "IEEE Transactions on Medical Imaging"
+issue: 41
+page: "1885-1896"
+year: 2022
+pub_number: 46
+---

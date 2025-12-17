@@ -1,0 +1,14 @@
+---
+title: "Filtered multi-tensor tractography using free water estimation"
+author: ["Christian F. Baumgartner", "Ofer Pasternak", "Sylvain Bouix", "Carl-Fredrik Westin", "Yogesh Rathi"]
+publication: "_Inernational Society for Magnetic Resonance in Medicine Meeting_, (2012)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Inernational Society for Magnetic Resonance in Medicine Meeting"
+issue: ""
+page: ""
+year: 2012
+pub_number: 2
+---

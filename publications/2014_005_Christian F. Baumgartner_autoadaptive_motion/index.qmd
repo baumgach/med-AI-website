@@ -1,0 +1,15 @@
+---
+title: "Autoadaptive motion modelling"
+author: ["Christian F. Baumgartner", "C. Kolbitsch", "J. R. McClelland", "D. Rueckert", "A. P. King"]
+publication: "_2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI)_, 457-460 (2014)"
+
+categories: []
+url_source: "https://doi.org/10.1109/isbi.2014.6867907"
+url_preprint: ""
+journ: "2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI)"
+issue: ""
+page: "457-460"
+year: 2014
+pub_number: 5
+image: "featured.png"
+---

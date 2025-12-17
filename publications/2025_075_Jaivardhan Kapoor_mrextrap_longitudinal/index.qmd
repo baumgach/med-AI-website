@@ -1,0 +1,15 @@
+---
+title: "MRExtrap: Longitudinal Aging of Brain MRIs using Linear Modeling in Latent Space"
+author: ["Jaivardhan Kapoor", "Jakob H Macke", "Christian F Baumgartner"]
+publication: "_arXiv preprint arXiv:2508.19482_, (2025)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2508.19482"
+journ: "arXiv preprint arXiv:2508.19482"
+issue: ""
+page: ""
+year: 2025
+pub_number: 75
+image: "featured.png"
+---

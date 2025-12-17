@@ -1,0 +1,15 @@
+---
+title: "Conformal Performance Range Prediction for Segmentation Output Quality Control"
+author: ["Anna M. Wundram", "Paul Fischer", "Michael Mühlebach", "Lisa M. Koch", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 81-91 (2025)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-031-73158-7_8"
+url_preprint: "https://arxiv.org/abs/2407.13307"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "81-91"
+year: 2025
+pub_number: 67
+image: "featured.png"
+---

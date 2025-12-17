@@ -1,0 +1,15 @@
+---
+title: "Self-Aligning Manifolds for Matching Disparate Medical Image Datasets"
+author: ["Christian F. Baumgartner", "Alberto Gomez", "Lisa M. Koch", "James R. Housden", "Christoph Kolbitsch", "Jamie R. McClelland", "Daniel Rueckert", "Andy P. King"]
+publication: "_Lecture Notes in Computer Science_, 363-374 (2015)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-319-19992-4_28"
+url_preprint: ""
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "363-374"
+year: 2015
+pub_number: 8
+image: "featured.png"
+---

@@ -1,0 +1,14 @@
+---
+title: "A deep learning automated segmentation algorithm accurately detects differences in longitudinal cartilage thickness loss-data from the FNIH biomarkers study of the osteoarthritis initiative"
+author: ["Felix Eckstein", "Akshay S Chaudhari", "David Fuerst", "Martin Gaisberger", "Jana Kemnitz", "Christian F. Baumgartner", "Ender Konukoglu", "David J Hunter", "Wolfgang Wirth"]
+publication: "_Arthritis Care Res (Hoboken)_, **74** 929--936 (2022)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Arthritis Care Res (Hoboken)"
+issue: 74
+page: "929--936"
+year: 2022
+pub_number: 42
+---

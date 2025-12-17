@@ -1,0 +1,14 @@
+---
+title: "Clinical evaluation of fully automated thigh muscle and adipose tissue segmentation using a U-Net deep learning architecture in context of osteoarthritic knee pain"
+author: ["Jana Kemnitz", "Christian F. Baumgartner", "Felix Eckstein", "Akshay Chaudhari", "Anja Ruhdorfer", "Wolfgang Wirth", "Sebastian K Eder", "Ender Konukoglu"]
+publication: "_Magnetic Resonance Materials in Physics, Biology and Medicine_, **33** 483--493 (2020)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Magnetic Resonance Materials in Physics, Biology and Medicine"
+issue: 33
+page: "483--493"
+year: 2020
+pub_number: 36
+---

@@ -1,0 +1,66 @@
+---
+title: &TITLE Jaivardhan Kapoor
+first: Jaivardhan
+last: Kapoor
+people_group: phdstudent-co
+education: B.Tech + M.Tech in Electrical Engineering | Indian Institute of Technology Kanpur | 2021
+email: "jaivardhan.kapoor@uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+  links:
+    - icon: house
+      text: Homepage
+      href: https://jaivardhankapoor.com
+    - icon: envelope
+      text: Email
+      href: mailto:jaivardhan.kapoor@uni-tuebingen.de
+    - icon: github
+      text: Github
+      href: https://github.com/jaivardhankapoor
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jaivardhankapoor/
+    - icon: mortarboard-fill  
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=_q2tc3YAAAAJ&hl=en
+---
+
+<hr>
+
+
+:::{#about}
+
+[Jaivardhan Kapoor](https://jaivardhankapoor.com) started his PhD in September 2021 and is co-advised by Christian Baumgartner and [Jakob Macke](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/forschung/forschung/cluster-arbeitsgruppen/professuren/ml-in-der-wissenschaft/).  He is an International Max Planck Research School for Intelligent Systems (IMPRS-IS) scholar. Before joining the University of Tübingen, he received his Bachelors and Masters degree in Electrical Engineering from [Indian Institute of Technology Kanpur](https://www.iitk.ac.in).
+
+Jai is developing probabilistic generative models and inference techniques for neuroimaging data, with applications in diagnosis and prognosis of neurodegenerative diseases such as Alzheimer's.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

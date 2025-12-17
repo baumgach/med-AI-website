@@ -1,0 +1,55 @@
+---
+title: &TITLE Paul Fischer
+first: Paul
+last: Fischer
+people_group: phdstudent
+education: M.Sc. Computer Science | University of Tübingen | 2021 <br> B.Sc. Cognitive Science | University of Tübingen | 2019
+email: "paul.fischer@uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:paul.fischer@uni-tuebingen.de
+---
+
+<hr>
+
+
+:::{#about}
+
+Paul joined the Machine Learning in Medical Image Analysis group as a PhD student to work on uncertainty quantification in medical prediction systems. 
+Prior to that, he worked on probabilistic machine learning models for behavior quantification for animals at the [Mackelab](https://www.mackelab.org/). 
+
+Starting in November 2025, Paul is working as a post-doc at the Department of Biomedical Engineering at the University of Basel, and preparing for his PhD defence. 
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

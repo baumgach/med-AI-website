@@ -1,0 +1,15 @@
+---
+title: "Visual Feature Attribution Using Wasserstein GANs"
+author: ["Christian F. Baumgartner", "Lisa M. Koch", "Kerem Can Tezcan", "Jia Xi Ang", "Ender Konukoglu"]
+publication: "_2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 8309-8319 (2018)"
+
+categories: [interpretability]
+url_source: "https://doi.org/10.1109/cvpr.2018.00867"
+url_preprint: "https://arxiv.org/abs/1711.08998"
+journ: "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+issue: ""
+page: "8309-8319"
+year: 2018
+pub_number: 30
+image: "featured.png"
+---

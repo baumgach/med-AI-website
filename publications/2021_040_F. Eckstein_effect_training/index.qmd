@@ -1,0 +1,14 @@
+---
+title: "Effect of training set sample size on the agreement, accuracy, and sensitivity to change of automated U-net-based cartilage thickness analysis"
+author: ["F. Eckstein", "A. Chaudhari", "Christian F. Baumgartner", "E. Konukoglu", "A. Wisser", "D. Fürst", "W. Wirth"]
+publication: "_Osteoarthritis and Cartilage_, **29** S326-S327 (2021)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.joca.2021.02.427"
+url_preprint: ""
+journ: "Osteoarthritis and Cartilage"
+issue: 29
+page: "S326-S327"
+year: 2021
+pub_number: 40
+---

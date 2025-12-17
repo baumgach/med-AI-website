@@ -1,0 +1,55 @@
+---
+title: &TITLE Anna M. Wundram
+first: Anna
+last: Wundram
+people_group: phdstudent
+education: M.Sc. Machine Learning | University of Tübingen | 2024 <br> B.Sc. Bioinformatics | University of Tübingen | 2021
+email: "anna.wundram@unilu.ch"
+subtitle: PhD student - University of Lucerne
+image: avatar.jpeg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:anna.wundram@unilu.ch
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anna-maria-wundram-1891891ba
+---
+
+<hr>
+
+
+:::{#about}
+
+
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

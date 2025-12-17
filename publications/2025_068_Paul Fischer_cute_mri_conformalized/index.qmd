@@ -1,0 +1,15 @@
+---
+title: "CUTE-MRI: Conformalized Uncertainty-based framework for Time-adaptivE MRI"
+author: ["Paul Fischer", "Jan Nikolas Morshuis", "Thomas Kustner", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2508.14952_, (2025)"
+
+categories: [uncertainty]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2508.14952"
+journ: "arXiv preprint arXiv:2508.14952"
+issue: ""
+page: ""
+year: 2025
+pub_number: 68
+image: "featured.png"
+---

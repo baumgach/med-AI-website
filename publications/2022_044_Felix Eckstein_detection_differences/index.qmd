@@ -1,0 +1,14 @@
+---
+title: "Detection of Differences in Longitudinal Cartilage Thickness Loss Using a Deep‐Learning Automated Segmentation Algorithm: Data From the Foundation for the National Institutes of Health Biomarkers Study of the Osteoarthritis Initiative"
+author: ["Felix Eckstein", "Akshay S. Chaudhari", "David Fuerst", "Martin Gaisberger", "Jana Kemnitz", "Christian F. Baumgartner", "Ender Konukoglu", "David J. Hunter", "Wolfgang Wirth"]
+publication: "_Arthritis Care &amp; Research_, **74** 929-936 (2022)"
+
+categories: []
+url_source: "https://doi.org/10.1002/acr.24539"
+url_preprint: ""
+journ: "Arthritis Care &amp; Research"
+issue: 74
+page: "929-936"
+year: 2022
+pub_number: 44
+---

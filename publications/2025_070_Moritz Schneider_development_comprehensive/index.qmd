@@ -1,0 +1,15 @@
+---
+title: "Development and comprehensive clinical validation of a deep neural network for radiation dose modelling to enhance magnetic resonance imaging guided radiotherapy"
+author: ["Moritz Schneider", "Simon Gutwein", "David Mönnich", "Cihan Gani", "Paul Fischer", "Christian F. Baumgartner", "Daniela Thorwarth"]
+publication: "_Physics and Imaging in Radiation Oncology_, **33** 100723 (2025)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.phro.2025.100723"
+url_preprint: ""
+journ: "Physics and Imaging in Radiation Oncology"
+issue: 33
+page: "100723"
+year: 2025
+pub_number: 70
+image: "featured.png"
+---

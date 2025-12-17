@@ -1,0 +1,15 @@
+---
+title: "Deep Hypothesis Tests Detect Clinically Relevant Subgroup Shifts in Medical Images"
+author: ["Lisa M Koch", "Christian M Schurch", "Christian F. Baumgartner", "Arthur Gretton", "Philipp Berens"]
+publication: "_arXiv preprint arXiv:2303.04862_, (2023)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2303.04862"
+journ: "arXiv preprint arXiv:2303.04862"
+issue: ""
+page: ""
+year: 2023
+pub_number: 49
+image: "featured.png"
+---

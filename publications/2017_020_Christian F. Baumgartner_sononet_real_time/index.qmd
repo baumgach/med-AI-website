@@ -1,0 +1,15 @@
+---
+title: "SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound"
+author: ["Christian F. Baumgartner", "Konstantinos Kamnitsas", "Jacqueline Matthew", "Tara P. Fletcher", "Sandra Smith", "Lisa M. Koch", "Bernhard Kainz", "Daniel Rueckert"]
+publication: "_IEEE Transactions on Medical Imaging_, **36** 2204-2215 (2017)"
+
+categories: [interpretability]
+url_source: "https://doi.org/10.1109/tmi.2017.2712367"
+url_preprint: "https://arxiv.org/abs/1612.05601"
+journ: "IEEE Transactions on Medical Imaging"
+issue: 36
+page: "2204-2215"
+year: 2017
+pub_number: 20
+image: "featured.png"
+---

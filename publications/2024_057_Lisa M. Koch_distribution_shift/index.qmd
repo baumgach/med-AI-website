@@ -1,0 +1,15 @@
+---
+title: "Distribution shift detection for the postmarket surveillance of medical AI algorithms: a retrospective simulation study"
+author: ["Lisa M. Koch", "Christian F. Baumgartner", "Philipp Berens"]
+publication: "_npj Digital Medicine_, **7** 120 (2024)"
+
+categories: []
+url_source: "https://doi.org/10.1038/s41746-024-01085-w"
+url_preprint: ""
+journ: "npj Digital Medicine"
+issue: 7
+page: "120"
+year: 2024
+pub_number: 57
+image: "featured.png"
+---

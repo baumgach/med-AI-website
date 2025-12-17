@@ -1,0 +1,17 @@
+---
+title: Research Areas
+listing:
+  id: research
+  type: grid
+page-layout: full
+---
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/chalkboard_sm.jpg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->
+
+Our research is broad and does not always fit neatly into predefined categories. Nonetheless, a substantial part of our work can be understood as contributing to improved *uncertainty quantification* and *interpretability* in machine learning, as well as to the development of *methods that are robust to variation across tasks*.

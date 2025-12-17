@@ -1,0 +1,15 @@
+---
+title: "Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis"
+author: ["Alexander Frotscher", "Christian F. Baumgartner", "Thomas Wolfers"]
+publication: "_arXiv preprint arXiv:2512.01534_, (2025)"
+
+categories: [task-robustness]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2512.01534"
+journ: "arXiv preprint arXiv:2512.01534"
+issue: ""
+page: ""
+year: 2025
+pub_number: 69
+image: "featured.png"
+---

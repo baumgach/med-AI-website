@@ -1,0 +1,14 @@
+---
+title: "A unified tractography framework for comparing diffusion models on clinical scans"
+author: ["Christian F. Baumgartner", "O Michailovich", "J Levitt", "O Pasternak", "S Bouix", "CF Westin", "Yogesh Rathi"]
+publication: "_Computational Diffusion MRI Workshop of MICCAI, Nice_, 27--32 (2012)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Computational Diffusion MRI Workshop of MICCAI, Nice"
+issue: ""
+page: "27--32"
+year: 2012
+pub_number: 1
+---

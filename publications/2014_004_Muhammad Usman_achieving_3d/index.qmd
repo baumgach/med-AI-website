@@ -1,0 +1,14 @@
+---
+title: "Achieving 3D CINE from free breathing multi-slice 2D acquisitions via Simultaneous Groupwise Manifold Alignment"
+author: ["Muhammad Usman", "Christian F. Baumgartner", "Andrew King", "David Atkinson", "Tobias Schaeffter", "Claudia Prieto"]
+publication: "_Proc. Intl. Soc. Mag. Reson. Med_, **22** 4359 (2014)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Proc. Intl. Soc. Mag. Reson. Med"
+issue: 22
+page: "4359"
+year: 2014
+pub_number: 4
+---

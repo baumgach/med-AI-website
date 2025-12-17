@@ -1,0 +1,15 @@
+---
+title: "K2S Challenge: From Undersampled K-Space to Automatic Segmentation"
+author: ["Aniket A. Tolpadi", "Upasana Bharadwaj", "Kenneth T. Gao", "Rupsa Bhattacharjee", "Felix G. Gassert", "Johanna Luitjens", "Paula Giesler", "Jan Nikolas Morshuis", "Paul Fischer", "Matthias Hein", "Christian F. Baumgartner", "Artem Razumov", "Dmitry Dylov", "Quintin van Lohuizen", "Stefan J. Fransen", "Xiaoxia Zhang", "Radhika Tibrewala", "Hector Lise de Moura", "Kangning Liu", "Marcelo V. W. Zibetti", "Ravinder Regatte", "Sharmila Majumdar", "Valentina Pedoia"]
+publication: "_Bioengineering_, **10** 267 (2023)"
+
+categories: []
+url_source: "https://doi.org/10.3390/bioengineering10020267"
+url_preprint: ""
+journ: "Bioengineering"
+issue: 10
+page: "267"
+year: 2023
+pub_number: 51
+image: "featured.png"
+---

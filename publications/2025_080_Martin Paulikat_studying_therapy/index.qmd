@@ -1,0 +1,15 @@
+---
+title: "Studying therapy effects and disease outcomes in silico using artificial counterfactual tissue samples"
+author: ["Martin Paulikat", "Christian M. Schürch", "Christian F. Baumgartner"]
+publication: "_Computers in Biology and Medicine_, **197** 110997 (2025)"
+
+categories: []
+url_source: "https://doi.org/https://doi.org/10.1016/j.compbiomed.2025.110997"
+url_preprint: ""
+journ: "Computers in Biology and Medicine"
+issue: 197
+page: "110997"
+year: 2025
+pub_number: 80
+image: "featured.png"
+---

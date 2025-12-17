@@ -1,0 +1,15 @@
+---
+title: "Inherently interpretable multi-label classification using class-specific counterfactuals"
+author: ["Susu Sun", "Stefano Woerner", "Andreas Maier", "Lisa M Koch", "Christian F. Baumgartner"]
+publication: "_Journal for Machine Learning for Biomedical Imaging (MELBA)_, (2023)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2303.00500"
+journ: "Journal for Machine Learning for Biomedical Imaging (MELBA)"
+issue: ""
+page: ""
+year: 2023
+pub_number: 50
+image: "featured.png"
+---

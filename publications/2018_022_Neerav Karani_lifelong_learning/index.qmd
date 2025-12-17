@@ -1,0 +1,15 @@
+---
+title: "A Lifelong Learning Approach to Brain MR Segmentation Across Scanners and Protocols"
+author: ["Neerav Karani", "Krishna Chaitanya", "Christian F. Baumgartner", "Ender Konukoglu"]
+publication: "_Lecture Notes in Computer Science_, 476-484 (2018)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-030-00928-1_54"
+url_preprint: "https://arxiv.org/abs/1805.10170"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "476-484"
+year: 2018
+pub_number: 22
+image: "featured.png"
+---

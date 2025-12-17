@@ -1,0 +1,60 @@
+---
+title: &TITLE Christian F. Baumgartner
+last: Baumgartner
+first: Christian
+people_group: "pi"
+email: "christian.baumgartner@unilu.ch"
+education:
+  - Ph.D. Biomedical Engineering | King's College London <br> M.Sc. Biomedical Engineering | ETH Zürich <br> B.Sc. Electrical Engineering | ETH Zürich
+subtitle: "Assistant Professor of Medical Data Science"
+description: ""
+project: "dmref"
+affiliation: University of Lucerne
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:christian.baumgartner@unilu.ch 
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.ch/citations?user=9MSArZUAAAAJ
+    - icon: github
+      text: GitHub 
+      href: https://github.com/baumgach
+---
+
+<hr>
+
+
+:::{#about}
+
+Christian F. Baumgartner is an Assistant Professor for Health Data Science in the Faculty of Health Sciences and Medicine at the University of Lucerne, where he is leading the research group for Medical AI. 
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+## Publications
+
+:::{#pubs}
+:::

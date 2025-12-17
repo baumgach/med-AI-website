@@ -1,0 +1,15 @@
+---
+title: "Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks"
+author: ["Matthew Sinclair", "Christian F. Baumgartner", "Jacqueline Matthew", "Wenjia Bai", "Juan Cerrolaza Martinez", "Yuanwei Li", "Sandra Smith", "Caroline L. Knight", "Bernhard Kainz", "Jo Hajnal", "Andrew P. King", "Daniel Rueckert"]
+publication: "_2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, 714-717 (2018)"
+
+categories: []
+url_source: "https://doi.org/10.1109/embc.2018.8512278"
+url_preprint: "https://arxiv.org/abs/1804.09102"
+journ: "2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+issue: ""
+page: "714-717"
+year: 2018
+pub_number: 27
+image: "featured.png"
+---

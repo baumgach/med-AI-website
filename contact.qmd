@@ -1,0 +1,36 @@
+---
+title: "Asst. Prof. Christian F. Baumgartner"
+about: 
+  id: contact
+  template: solana
+  image-shape: round
+  image: people/baumgartner-christian/avatar.png
+# page-layout: full
+---
+
+
+
+:::{#contact}
+
+#### {{< fa envelope >}} &nbsp; christian.baumgartner@unilu.ch
+
+#### {{< fa phone >}} &nbsp; +41 41 229 50 00
+
+#### {{< fa map-location-dot >}} &nbsp; University of Lucerne, Faculty of Medicine and Health Sciences, Alpenquai 4, 6005 Luzern, Switzerland
+
+
+
+
+:::
+
+
+```{r}
+#| echo: false
+#| label: make map
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=47.0468502, lng=8.3162365)
+```
+
+<br>

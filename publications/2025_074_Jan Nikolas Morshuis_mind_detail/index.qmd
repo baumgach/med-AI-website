@@ -1,0 +1,15 @@
+---
+title: "Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions"
+author: ["Jan Nikolas Morshuis", "Christian Schlarmann", "Thomas Küstner", "Christian F. Baumgartner", "Matthias Hein"]
+publication: "_Lecture Notes in Computer Science_, 356-366 (2025)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-032-04937-7_34"
+url_preprint: "https://arxiv.org/abs/2507.00670"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "356-366"
+year: 2025
+pub_number: 74
+image: "featured.png"
+---

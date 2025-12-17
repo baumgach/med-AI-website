@@ -1,0 +1,14 @@
+---
+title: "MRExtrap: Linear Prediction of Brain Aging in Autoencoder Latent Space of MRI Scans"
+author: ["Jaivardhan Kapoor", "Jakob H Macke", "Christian F. Baumgartner"]
+publication: "_Medical Imaging with Deep Learning_, (2024)"
+
+categories: []
+url_source: "https://openreview.net/forum?id=lmAqqL5wL8"
+url_preprint: ""
+journ: "Medical Imaging with Deep Learning"
+issue: ""
+page: ""
+year: 2024
+pub_number: 60
+---

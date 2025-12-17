@@ -1,0 +1,27 @@
+---
+title: Interpretable Machine Learning
+alias: &ALIAS interpretability
+image: featured.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+![](featured.png)
+
+The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritize predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Our research goals in this branch are to develop adequate explanations for predictions of deep learning models, and perhaps more importantly, to build inherently interpretable models rooted in prior clinical knowledge.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

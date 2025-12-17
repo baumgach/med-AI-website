@@ -1,0 +1,15 @@
+---
+title: "MR image reconstruction using deep density priors"
+author: ["Kerem C Tezcan", "Christian F. Baumgartner", "Roger Luechinger", "Klaas P Pruessmann", "Ender Konukoglu"]
+publication: "_IEEE transactions on medical imaging_, **38** 1633--1642 (2018)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/1711.11386"
+journ: "IEEE transactions on medical imaging"
+issue: 38
+page: "1633--1642"
+year: 2018
+pub_number: 29
+image: "featured.png"
+---

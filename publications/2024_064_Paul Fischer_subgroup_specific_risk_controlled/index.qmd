@@ -1,0 +1,15 @@
+---
+title: "Subgroup-Specific Risk-Controlled Dose Estimation in Radiotherapy"
+author: ["Paul Fischer", "Hannah Willms", "Moritz Schneider", "Daniela Thorwarth", "Michael Muehlebach", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 696-706 (2024)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-031-72117-5_65"
+url_preprint: "https://arxiv.org/abs/2407.08432"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "696-706"
+year: 2024
+pub_number: 64
+image: "featured.png"
+---

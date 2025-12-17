@@ -1,0 +1,57 @@
+---
+title: &TITLE Stefano Woerner
+first: Stefano
+last: Woerner
+people_group: phdstudent
+education: M.Sc. Computer Science | ETH Zürich | 2020 <br> B.Sc. Computer Science | University of Konstanz | 2017
+email: "stefano.woerner@uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:stefano.woerner@uni-tuebingen.de
+    - icon: github
+      text: github
+      href: https://github.com/StefanoWoerner
+---
+
+<hr>
+
+
+:::{#about}
+
+Stefano Woerner started his PhD in the Machine Learning for Medical Image Analysis Group in September 2021. He works on meta-learning and few-shot learning for medical imaging and is interested in developing more "human-like" machine learning methods for medical image analysis.
+
+Before joining the Machine Learning for Medical Image Analysis Group, Stefano obtained his Bachelor's degree in Computer Science from University of Konstanz and his Master's degree in Computer Science from ETH Zürich, focusing mainly on Machine Leanring and on Computer Vision.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

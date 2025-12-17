@@ -1,0 +1,14 @@
+---
+title: "The Estimation of Free-Water Corrected Diffusion Tensors"
+author: ["Ofer Pasternak", "Klaus Maier-Hein", "Christian F. Baumgartner", "Martha E. Shenton", "Yogesh Rathi", "Carl-Fredrik Westin"]
+publication: "_Mathematics and Visualization_, 249-270 (2014)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-642-54301-2_11"
+url_preprint: ""
+journ: "Mathematics and Visualization"
+issue: ""
+page: "249-270"
+year: 2014
+pub_number: 7
+---

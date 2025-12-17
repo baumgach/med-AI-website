@@ -1,0 +1,15 @@
+---
+title: "Automated quantification of myocardial tissue characteristics from native T1 mapping using neural networks with uncertainty-based quality-control"
+author: ["Esther Puyol-Antón", "Bram Ruijsink", "Christian F. Baumgartner", "Pier-Giorgio Masci", "Matthew Sinclair", "Ender Konukoglu", "Reza Razavi", "Andrew P. King"]
+publication: "_Journal of Cardiovascular Magnetic Resonance_, **22** 60 (2020)"
+
+categories: []
+url_source: "https://doi.org/10.1186/s12968-020-00650-y"
+url_preprint: ""
+journ: "Journal of Cardiovascular Magnetic Resonance"
+issue: 22
+page: "60"
+year: 2020
+pub_number: 35
+image: "featured.png"
+---

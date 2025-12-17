@@ -1,0 +1,14 @@
+---
+title: "Motionfree abdominal MRI using manifold alignment"
+author: ["Xin Chen", "Muhammad Usman", "Christian F. Baumgartner", "Claudia Prieto", "Andrew King"]
+publication: "_Proc. Int. Soc. Magn. Reson. Med_, (2016)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Proc. Int. Soc. Magn. Reson. Med"
+issue: ""
+page: ""
+year: 2016
+pub_number: 9
+---

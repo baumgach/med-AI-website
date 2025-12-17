@@ -1,0 +1,15 @@
+---
+title: "Subgroup Performance Analysis in Hidden Stratifications"
+author: ["Alceu Bissoto", "Trung-Dung Hoang", "Tim Flühmann", "Susu Sun", "Christian F. Baumgartner", "Lisa M. Koch"]
+publication: "_Lecture Notes in Computer Science_, 594-603 (2025)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-032-05185-1_57"
+url_preprint: "https://arxiv.org/abs/2503.10382"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "594-603"
+year: 2025
+pub_number: 81
+image: "featured.png"
+---

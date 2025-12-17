@@ -1,0 +1,29 @@
+---
+title: Meta-Learning and Robustness to Shifting Tasks
+alias: &ALIAS task-robustness
+image: featured.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+![](featured.png)
+
+A major limitation of deep learning in many real-world applications is the scarcity of labelled data. Meta-learning, which leverages experience across related tasks to accelerate learning on new problems, has the potential to mitigate this data scarcity. However, most existing meta-learning methods are developed and evaluated under idealised assumptions, such as homogeneous task definitions, fixed data modalities, and well-defined training distributions.
+
+In this research area, we study meta-learning as a foundation for building robust and adaptable machine-learning systems that transfer readily across tasks with only few training data points. Specifically, we focus on meta-learning methods that operate under realistic conditions, including heterogeneous tasks and varying label spaces.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

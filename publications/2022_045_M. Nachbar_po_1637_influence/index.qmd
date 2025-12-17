@@ -1,0 +1,14 @@
+---
+title: "PO-1637 Influence of training data variability on deep learning dose prediction robustness for MR-guided RT"
+author: ["M. Nachbar", "S. Gutwein", "M. Schneider", "D. Zips", "Christian F. Baumgartner", "D. Thorwarth"]
+publication: "_Radiotherapy and Oncology_, **170** S1431-S1433 (2022)"
+
+categories: []
+url_source: "https://doi.org/10.1016/s0167-8140(22)03601-5"
+url_preprint: ""
+journ: "Radiotherapy and Oncology"
+issue: 170
+page: "S1431-S1433"
+year: 2022
+pub_number: 45
+---

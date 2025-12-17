@@ -1,0 +1,15 @@
+---
+title: "Adversarial Robustness of MR Image Reconstruction Under Realistic Perturbations"
+author: ["Jan Nikolas Morshuis", "Sergios Gatidis", "Matthias Hein", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 24-33 (2022)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-031-17247-2_3"
+url_preprint: "https://arxiv.org/abs/2208.03161"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "24-33"
+year: 2022
+pub_number: 43
+image: "featured.png"
+---

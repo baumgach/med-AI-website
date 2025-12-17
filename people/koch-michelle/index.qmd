@@ -1,0 +1,49 @@
+---
+title: &TITLE Michelle Koch
+first: Michelle
+last: Koch
+people_group: phdstudent-co
+education: Master of Science in Applied Information and Data Science | Hochschule Luzern (HSLU) | 2025 <br> Bachelor of Arts (BA) in Wirtschaftswissenschaften | University of Lucerne | 2022
+email: "michelle.koch@hslu.ch"
+subtitle: PhD student - HSLU
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+
+---
+
+<hr>
+
+
+:::{#about}
+
+Michelle is co-supervised by PD Dr. Luis Terán (HSLU) and Christian Baumgartner
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

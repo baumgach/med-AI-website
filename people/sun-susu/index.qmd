@@ -1,0 +1,59 @@
+---
+title: &TITLE Susu Sun
+first: Susu
+last: Sun
+people_group: phdstudent
+education: 
+email: "susu.sun@uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+  links:
+    - icon: house
+      text: Homepage
+      href: https://ss-sun.github.io/
+    - icon: envelope
+      text: Email
+      href: mailto:susu.sun@uni-tuebingen.de
+    - icon: github
+      text: Github
+      href: https://github.com/ss-sun
+---
+
+<hr>
+
+
+:::{#about}
+
+
+After finishing her Master degree at the University of Erlangen-Nuremberg with a Master thesis in the MLMIA group, Susu Sun joined the MLMIA group as a PhD student. Susu works on the broad topic of making neural networks more interpretable. Her immediate focus is on disentangling visual attributes for inherently interpretable medical image classification." In this project, visual attributes of the medical image such as intensity and shape are disentangled and modeled as independent causal mechanisms. The disentangled attributes are used to train a more robust and interpretable classifier such that the classifier can not only give an accurate prediction but also interpret its prediction with the disentangled attribute.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

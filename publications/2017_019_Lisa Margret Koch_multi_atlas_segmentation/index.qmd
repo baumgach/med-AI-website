@@ -1,0 +1,14 @@
+---
+title: "Multi-atlas segmentation using partially annotated data: methods and annotation strategies"
+author: ["Lisa Margret Koch", "Martin Rajchl", "Wenjia Bai", "Christian F. Baumgartner", "Tong Tong", "Jonathan Passerat-Palmbach", "Paul Aljabar", "Daniel Rueckert"]
+publication: "_IEEE transactions on pattern analysis and machine intelligence_, **40** 1683--1696 (2017)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/1605.00029"
+journ: "IEEE transactions on pattern analysis and machine intelligence"
+issue: 40
+page: "1683--1696"
+year: 2017
+pub_number: 19
+---

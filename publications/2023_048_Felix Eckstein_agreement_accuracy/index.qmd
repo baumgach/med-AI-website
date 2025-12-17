@@ -1,0 +1,15 @@
+---
+title: "Agreement and accuracy of fully automated morphometric femorotibial cartilage analysis in radiographic knee osteoarthritis"
+author: ["Felix Eckstein", "Akshay S. Chaudhari", "Jana Kemnitz", "Christian F. Baumgartner", "Wolfgang Wirth"]
+publication: "_Osteoarthritis Imaging_, **3** 100156 (2023)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.ostima.2023.100156"
+url_preprint: ""
+journ: "Osteoarthritis Imaging"
+issue: 3
+page: "100156"
+year: 2023
+pub_number: 48
+image: "featured.png"
+---

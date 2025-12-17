@@ -1,0 +1,14 @@
+---
+title: "SC29.03 AUTOMATIC AI-BASED SEGMENTATION OF LIVER METASTASES AND ORGANS-AT-RISK FOR MR-GUIDED RADIOTHERAPY"
+author: ["D. Langner", "C. Gani", "Christian F. Baumgartner", "D. Thorwarth"]
+publication: "_Physica Medica_, **125** 103528 (2024)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.ejmp.2024.103528"
+url_preprint: ""
+journ: "Physica Medica"
+issue: 125
+page: "103528"
+year: 2024
+pub_number: 63
+---

@@ -1,0 +1,14 @@
+---
+title: "A deep-learning-based technique for the quantitative analysis of femorotibial osteophyte and bone volumes -data from the osteoarthritis initiative"
+author: ["J.K. Schachinger", "S. Maschek", "A. Wisser", "D. Fürst", "A.S. Chaudhari", "J. Kemnitz", "Christian F. Baumgartner", "E. Konukoglu", "F. Eckstein", "W. Wirth"]
+publication: "_Osteoarthritis and Cartilage_, **29** S328-S329 (2021)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.joca.2021.02.429"
+url_preprint: ""
+journ: "Osteoarthritis and Cartilage"
+issue: 29
+page: "S328-S329"
+year: 2021
+pub_number: 37
+---

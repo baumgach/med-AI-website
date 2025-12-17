@@ -1,0 +1,14 @@
+---
+title: "1930 Estimating uncertainty for AI-based dose modelling in MRI-guided RT using ensemble networks, mean variance estimation and Monte Carlo dropout"
+author: ["Tabea Eberhardt", "Moritz Schneider", "Christian F. Baumgartner", "Paul Fischer", "Maximilian Niyazi", "Daniela Thorwarth"]
+publication: "_Radiotherapy and Oncology_, **206** S3387-S3389 (2025)"
+
+categories: []
+url_source: "https://doi.org/10.1016/s0167-8140(25)00742-x"
+url_preprint: ""
+journ: "Radiotherapy and Oncology"
+issue: 206
+page: "S3387-S3389"
+year: 2025
+pub_number: 65
+---

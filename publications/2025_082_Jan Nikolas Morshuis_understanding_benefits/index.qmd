@@ -1,0 +1,15 @@
+---
+title: "Understanding Benefits and Pitfalls of Current Methods for the Segmentation of Undersampled MRI Data"
+author: ["Jan Nikolas Morshuis", "Matthias Hein", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2508.18975_, (2025)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2508.18975"
+journ: "arXiv preprint arXiv:2508.18975"
+issue: ""
+page: ""
+year: 2025
+pub_number: 82
+image: "featured.png"
+---

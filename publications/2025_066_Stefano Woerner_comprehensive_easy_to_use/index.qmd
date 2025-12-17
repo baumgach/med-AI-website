@@ -1,0 +1,15 @@
+---
+title: "A comprehensive and easy-to-use multi-domain multi-task medical imaging meta-dataset"
+author: ["Stefano Woerner", "Arthur Jaques", "Christian F. Baumgartner"]
+publication: "_Scientific Data_, **12** 666 (2025)"
+
+categories: [task-robustness]
+url_source: "https://doi.org/10.1038/s41597-025-04866-4"
+url_preprint: "https://arxiv.org/abs/2404.16000"
+journ: "Scientific Data"
+issue: 12
+page: "666"
+year: 2025
+pub_number: 66
+image: "featured.png"
+---

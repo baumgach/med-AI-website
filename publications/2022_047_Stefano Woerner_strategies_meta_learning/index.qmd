@@ -1,0 +1,14 @@
+---
+title: "Strategies for Meta-Learning with Diverse Tasks"
+author: ["Stefano Woerner", "Christian F. Baumgartner"]
+publication: "_Medical Imaging with Deep Learning_, (2022)"
+
+categories: [task-robustness]
+url_source: "https://openreview.net/pdf?id=SNWV4Qlk53G"
+url_preprint: ""
+journ: "Medical Imaging with Deep Learning"
+issue: ""
+page: ""
+year: 2022
+pub_number: 47
+---

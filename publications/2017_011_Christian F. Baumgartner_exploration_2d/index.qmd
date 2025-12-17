@@ -1,0 +1,15 @@
+---
+title: "An exploration of 2D and 3D deep learning techniques for cardiac MR image segmentation"
+author: ["Christian F. Baumgartner", "Lisa M. Koch", "Marc Pollefeys", "Ender Konukoglu"]
+publication: "_International Workshop on Statistical Atlases and Computational Models of the Heart_, 111--119 (2017)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/1709.04496"
+journ: "International Workshop on Statistical Atlases and Computational Models of the Heart"
+issue: ""
+page: "111--119"
+year: 2017
+pub_number: 11
+image: "featured.png"
+---

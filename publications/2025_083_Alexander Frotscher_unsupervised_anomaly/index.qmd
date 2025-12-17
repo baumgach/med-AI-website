@@ -1,0 +1,15 @@
+---
+title: "Unsupervised Anomaly Detection in Medical Imaging using Aggregated Normative Diffusion"
+author: ["Alexander Frotscher", "Jaivardhan Kapoor", "Thomas Wolfers", "Christian F. Baumgartner"]
+publication: "_Medical Image Analysis_, 103895 (2025)"
+
+categories: [task-robustness]
+url_source: "https://doi.org/10.1016/j.media.2025.103895"
+url_preprint: "https://arxiv.org/abs/2312.01904"
+journ: "Medical Image Analysis"
+issue: ""
+page: "103895"
+year: 2025
+pub_number: 83
+image: "featured.png"
+---

@@ -1,0 +1,59 @@
+---
+title: &TITLE Jan Nikolas Morshuis
+first: Jan Nikolas
+last: Morshuis
+people_group: phdstudent
+education: M.Sc. Physics and Astronomy | University of Heidelberg | 2019 <br> B.Sc. Physics and Astronomy | University of Nijmegen Netherlands | 2016
+email: "nikolas.morshuis@uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nikolas.morshuis@uni-tuebingen.de
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jan-nikolas-morshuis-78b6baaa/
+    - icon: github
+      text: Github
+      href: https://github.com/nikolasmorshuis
+---
+
+<hr>
+
+
+:::{#about}
+
+Nikolas started his PhD in October 2021 and is Co-Supervised by Christian Baumgartner and Matthias Hein. He is mainly focusing on the creation of robust ML-methods for medical image analysis, for which physical informed networks could be of relevance. 
+Prior to that he worked at a ML-Research department at SAP and as a quantitative consultant at d-fine.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

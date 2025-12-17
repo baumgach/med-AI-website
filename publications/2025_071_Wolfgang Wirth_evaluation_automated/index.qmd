@@ -1,0 +1,15 @@
+---
+title: "Evaluation of an automated laminar cartilage T2 relaxation time analysis method in an early osteoarthritis model"
+author: ["Wolfgang Wirth", "Susanne Maschek", "Anna Wisser", "Jana Eder", "Christian F. Baumgartner", "Akshay Chaudhari", "Francis Berenbaum", "Felix Eckstein", "OA-BIO Consortium"]
+publication: "_Skeletal radiology_, **54** 571--584 (2025)"
+
+categories: []
+url_source: "https://link.springer.com/article/10.1007/s00256-024-04786-1"
+url_preprint: ""
+journ: "Skeletal radiology"
+issue: 54
+page: "571--584"
+year: 2025
+pub_number: 71
+image: "featured.png"
+---

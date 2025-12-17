@@ -1,0 +1,15 @@
+---
+title: "High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment"
+author: ["Christian F. Baumgartner", "Christoph Kolbitsch", "Daniel R. Balfour", "Paul K. Marsden", "Jamie R. McClelland", "Daniel Rueckert", "Andrew P. King"]
+publication: "_Medical Image Analysis_, **18** 939-952 (2014)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.media.2014.05.010"
+url_preprint: ""
+journ: "Medical Image Analysis"
+issue: 18
+page: "939-952"
+year: 2014
+pub_number: 6
+image: "featured.png"
+---

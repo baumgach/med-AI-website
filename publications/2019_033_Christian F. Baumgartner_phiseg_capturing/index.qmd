@@ -1,0 +1,15 @@
+---
+title: "PHiSeg: Capturing Uncertainty in Medical Image Segmentation"
+author: ["Christian F. Baumgartner", "Kerem C. Tezcan", "Krishna Chaitanya", "Andreas M. Hötker", "Urs J. Muehlematter", "Khoschy Schawkat", "Anton S. Becker", "Olivio Donati", "Ender Konukoglu"]
+publication: "_Lecture Notes in Computer Science_, 119-127 (2019)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-030-32245-8_14"
+url_preprint: "https://arxiv.org/abs/1906.04045"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "119-127"
+year: 2019
+pub_number: 33
+image: "featured.png"
+---

@@ -1,0 +1,15 @@
+---
+title: "Learning to Segment Medical Images with Scribble-Supervision Alone"
+author: ["Yigit B. Can", "Krishna Chaitanya", "Basil Mustafa", "Lisa M. Koch", "Ender Konukoglu", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 236-244 (2018)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-030-00889-5_27"
+url_preprint: "https://arxiv.org/abs/1807.04668"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "236-244"
+year: 2018
+pub_number: 28
+image: "featured.png"
+---

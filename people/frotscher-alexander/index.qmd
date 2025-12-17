@@ -1,0 +1,55 @@
+---
+title: &TITLE Alexander Frotscher 
+first: Alexander
+last: Frotscher
+people_group: phdstudent-co
+education: M.Sc. Bioinformatics | University of Tübingen | 2023 <br> B.Sc. Bioinformatics | Friedrich-Schiller-Universität Jena, Germany | 2021
+email: "alexander.frotscher@student.uni-tuebingen.de"
+subtitle: PhD student - University of Tübingen
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alexander.frotscher@student.uni-tuebingen.de
+    - icon: github
+      text: Github
+      href: https://github.com/AlexanderFrotscher
+---
+
+<hr>
+
+
+:::{#about}
+
+Alexander finished his Master's thesis in our lab in November 2023. Since April 2024, he started his PhD on anomaly detection in neuroimaging data under the joint supervision of Thomas Wolfers and Christian Baumgartner. 
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

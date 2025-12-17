@@ -1,0 +1,15 @@
+---
+title: "Sparse Activations for Interpretable Disease Grading"
+author: ["Kerol R. Donteu Djoumessi", "Indu Ilanchezian", "Laura Kühlewein", "Hanna Faber", "Christian F. Baumgartner", "Bubacarr Bah", "Philipp Berens", "Lisa M. Koch"]
+publication: "_Medical Imaging with Deep Learning_, (2023)"
+
+categories: []
+url_source: "https://proceedings.mlr.press/v227/donteu24a.html"
+url_preprint: "https://www.medrxiv.org/content/10.1101/2023.03.07.23286895v1.full"
+journ: "Medical Imaging with Deep Learning"
+issue: ""
+page: ""
+year: 2023
+pub_number: 54
+image: "featured.png"
+---

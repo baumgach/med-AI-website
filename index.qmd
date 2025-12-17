@@ -1,0 +1,34 @@
+---
+# title: 'Welcome to the Medical AI Lab: <span style="color:#757883">building safe and trustworthy AI for healthcare</span>'
+# subtitle: "building safe and trustworthy AI for healthcare"
+page-layout: full
+---
+<div class="gradient-text">
+
+<div class="welcome-headline">
+Welcome to the Medical AI Lab<br>
+</div>
+<div class="welcome-subheadline">
+Building safe and trustworthy AI for healthcare
+</div>
+</div>
+
+::::{.cmm-background}
+::: {.content-container}
+::: {.welcome }
+
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
+
+We are a research group working on the algorithmic foundations of machine learning for healthcare and other high-risk domains. Our work combines probabilistic modeling and deep learning to develop uncertainty-aware and interpretable AI methods that support robust decision-making in clinical workflows, in close collaboration with domain experts. 
+:::
+
+:::
+
+
+
+:::
+:::
+::::
+

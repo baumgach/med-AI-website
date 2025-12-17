@@ -1,0 +1,15 @@
+---
+title: "Semi-supervised task-driven data augmentation for medical image segmentation"
+author: ["Krishna Chaitanya", "Neerav Karani", "Christian F. Baumgartner", "Ertunc Erdil", "Anton Becker", "Olivio Donati", "Ender Konukoglu"]
+publication: "_Medical Image Analysis_, **68** 101934 (2021)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.media.2020.101934"
+url_preprint: "https://arxiv.org/abs/2007.05363"
+journ: "Medical Image Analysis"
+issue: 68
+page: "101934"
+year: 2021
+pub_number: 41
+image: "featured.png"
+---

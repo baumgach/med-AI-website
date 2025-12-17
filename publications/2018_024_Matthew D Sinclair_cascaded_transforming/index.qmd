@@ -1,0 +1,15 @@
+---
+title: "Cascaded transforming multi-task networks for abdominal biometric estimation from ultrasound"
+author: ["Matthew D Sinclair", "Juan Cerrolaza Martinez", "Emily Skelton", "Yuanwei Li", "Christian F. Baumgartner", "Wenjia Bai", "Jacqueline Matthew", "Caroline L Knight", "Sandra Smith", "Jo Hajnal", "others"]
+publication: "_Medical Imaging with Deep Learning_, (2018)"
+
+categories: []
+url_source: "https://openreview.net/forum?id=r1ZGQW2if"
+url_preprint: ""
+journ: "Medical Imaging with Deep Learning"
+issue: ""
+page: ""
+year: 2018
+pub_number: 24
+image: "featured.png"
+---

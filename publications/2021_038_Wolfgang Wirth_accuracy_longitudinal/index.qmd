@@ -1,0 +1,14 @@
+---
+title: "Accuracy and longitudinal reproducibility of quantitative femorotibial cartilage measures derived from automated U-Net-based segmentation of two different MRI contrasts: data from the osteoarthritis initiative healthy reference cohort"
+author: ["Wolfgang Wirth", "Felix Eckstein", "Jana Kemnitz", "Christian Frederik Baumgartner", "Ender Konukoglu", "David Fuerst", "Akshay Sanjay Chaudhari"]
+publication: "_Magnetic Resonance Materials in Physics, Biology and Medicine_, **34** 337--354 (2021)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "Magnetic Resonance Materials in Physics, Biology and Medicine"
+issue: 34
+page: "337--354"
+year: 2021
+pub_number: 38
+---

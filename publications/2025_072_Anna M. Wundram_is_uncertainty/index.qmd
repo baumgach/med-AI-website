@@ -1,0 +1,15 @@
+---
+title: "Is Uncertainty Quantification a Viable Alternative to Learned Deferral?"
+author: ["Anna M. Wundram", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 34-44 (2025)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-032-06593-3_4"
+url_preprint: "https://arxiv.org/abs/2508.02319"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "34-44"
+year: 2025
+pub_number: 72
+image: "featured.png"
+---

@@ -1,0 +1,14 @@
+---
+title: "MedIMeta: An easy-to-use meta-dataset for medical imaging applications"
+author: ["Stefano Woerner", "Arthur Jaques", "Christian F. Baumgartner"]
+publication: "_Medical Imaging with Deep Learning_, (2024)"
+
+categories: []
+url_source: "https://openreview.net/forum?id=AIPQBCXesT"
+url_preprint: ""
+journ: "Medical Imaging with Deep Learning"
+issue: ""
+page: ""
+year: 2024
+pub_number: 59
+---

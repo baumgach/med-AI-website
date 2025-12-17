@@ -1,0 +1,14 @@
+---
+title: "SC29.02 UNCERTAINTY ESTIMATION FOR AI-BASED DOSE MODELLING IN MR-GUIDED RADIOTHERAPY USING ENSEMBLE LEARNING AND MONTE CARLO DROPOUT"
+author: ["T. Eberhardt", "M. Schneider", "Paul Fischer", "C. Gani", "Christian F. Baumgartner", "D. Thorwarth"]
+publication: "_Physica Medica_, **125** 103527 (2024)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.ejmp.2024.103527"
+url_preprint: ""
+journ: "Physica Medica"
+issue: 125
+page: "103527"
+year: 2024
+pub_number: 62
+---

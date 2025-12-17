@@ -1,0 +1,15 @@
+---
+title: "Unsupervised Domain Adaptation in Brain Lesion Segmentation with Adversarial Networks"
+author: ["Konstantinos Kamnitsas", "Christian F. Baumgartner", "Christian Ledig", "Virginia Newcombe", "Joanna Simpson", "Andrew Kane", "David Menon", "Aditya Nori", "Antonio Criminisi", "Daniel Rueckert", "Ben Glocker"]
+publication: "_Lecture Notes in Computer Science_, 597-609 (2017)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-319-59050-9_47"
+url_preprint: "https://arxiv.org/abs/1612.08894"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "597-609"
+year: 2017
+pub_number: 21
+image: "featured.png"
+---

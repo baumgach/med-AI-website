@@ -1,0 +1,15 @@
+---
+title: "Groupwise Simultaneous Manifold Alignment for High-Resolution Dynamic MR Imaging of Respiratory Motion"
+author: ["Christian F. Baumgartner", "Christoph Kolbitsch", "Jamie R. McClelland", "Daniel Rueckert", "Andrew P. King"]
+publication: "_Lecture Notes in Computer Science_, 232-243 (2013)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-642-38868-2_20"
+url_preprint: ""
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "232-243"
+year: 2013
+pub_number: 3
+image: "featured.png"
+---

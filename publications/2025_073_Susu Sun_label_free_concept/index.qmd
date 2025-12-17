@@ -1,0 +1,15 @@
+---
+title: "Label-free concept based multiple instance learning for gigapixel histopathology"
+author: ["Susu Sun", "Leslie Tessier", "Frederique Meeuwsen", "Clement Grisi", "Dominique van Midden", "Geert Litjens", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2501.02922_, (2025)"
+
+categories: [interpretability]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2501.02922"
+journ: "arXiv preprint arXiv:2501.02922"
+issue: ""
+page: ""
+year: 2025
+pub_number: 73
+image: "featured.png"
+---

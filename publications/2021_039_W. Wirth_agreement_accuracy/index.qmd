@@ -1,0 +1,14 @@
+---
+title: "Agreement and accuracy of femorotibial cartilage morphometry in radiographic knee OA using different training sets for automateddeep learning segmentation - comparison between flash and dess MRI"
+author: ["W. Wirth", "A.S. Chaudhari", "J. Kemnitz", "Christian F. Baumgartner", "E. Konukoglu", "D. Fürst", "F. Eckstein"]
+publication: "_Osteoarthritis and Cartilage_, **29** S334 (2021)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.joca.2021.02.435"
+url_preprint: ""
+journ: "Osteoarthritis and Cartilage"
+issue: 29
+page: "S334"
+year: 2021
+pub_number: 39
+---

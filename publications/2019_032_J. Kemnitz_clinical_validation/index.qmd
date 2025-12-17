@@ -1,0 +1,15 @@
+---
+title: "Clinical validation of fully automated segmentation of thigh muscle and adipose tissue cross sectional areas using maching learning with a convolutional neural network"
+author: ["J. Kemnitz", "Christian F. Baumgartner", "A. Ruhdorfer", "W. Wirth", "F. Eckstein", "S.K. Eder", "E. Konukoglu"]
+publication: "_Osteoarthritis and Cartilage_, **27** S383-S384 (2019)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.joca.2019.02.384"
+url_preprint: ""
+journ: "Osteoarthritis and Cartilage"
+issue: 27
+page: "S383-S384"
+year: 2019
+pub_number: 32
+image: "featured.png"
+---

@@ -1,0 +1,14 @@
+---
+title: "Characterization of the diffusion properties of different gadolinium-based MRI contrast agents after ultrasound induced blood--brain barrier permeabilization"
+author: ["B Fowlkes", "P Ghanouni", "N Sanghvi", "C Coussios", "Pc Lyon", "M Gray", "C Mannaris", "Mds Victor", "E Stride", "R Cleveland", "others"]
+publication: "_JOURNAL OF THERAPEUTIC ULTRASOUND_, **5** (2017)"
+
+categories: []
+url_source: ""
+url_preprint: ""
+journ: "JOURNAL OF THERAPEUTIC ULTRASOUND"
+issue: 5
+page: ""
+year: 2017
+pub_number: 14
+---

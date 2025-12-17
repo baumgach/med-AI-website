@@ -1,0 +1,15 @@
+---
+title: "Multiscale Metamorphic VAE for 3D Brain MRI Synthesis"
+author: ["Jaivardhan Kapoor", "Jakob H Macke", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2301.03588_, (2023)"
+
+categories: []
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2301.03588"
+journ: "arXiv preprint arXiv:2301.03588"
+issue: ""
+page: ""
+year: 2023
+pub_number: 52
+image: "featured.png"
+---

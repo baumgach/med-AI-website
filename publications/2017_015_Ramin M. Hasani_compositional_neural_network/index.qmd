@@ -1,0 +1,14 @@
+---
+title: "Compositional neural-network modeling of complex analog circuits"
+author: ["Ramin M. Hasani", "Dieter Haerle", "Christian F. Baumgartner", "Alessio R. Lomuscio", "Radu Grosu"]
+publication: "_2017 International Joint Conference on Neural Networks (IJCNN)_, 2235-2242 (2017)"
+
+categories: []
+url_source: "https://doi.org/10.1109/ijcnn.2017.7966126"
+url_preprint: ""
+journ: "2017 International Joint Conference on Neural Networks (IJCNN)"
+issue: ""
+page: "2235-2242"
+year: 2017
+pub_number: 15
+---

@@ -1,0 +1,15 @@
+---
+title: "Navigating the unknown: out-of-distribution detection for medical imaging"
+author: ["Moritz Fuchs", "Anastasios Nikolas Angelopoulos", "Magdalini Paschali", "Christian F. Baumgartner", "Anirban Mukhopadhyay"]
+publication: "_Trustworthy AI in Medical Imaging_, 73-99 (2025)"
+
+categories: []
+url_source: "https://doi.org/10.1016/b978-0-44-323761-4.00013-4"
+url_preprint: ""
+journ: "Trustworthy AI in Medical Imaging"
+issue: ""
+page: "73-99"
+year: 2025
+pub_number: 77
+image: "featured.jpeg"
+---

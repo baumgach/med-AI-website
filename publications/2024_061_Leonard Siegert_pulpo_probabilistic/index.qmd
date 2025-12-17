@@ -1,0 +1,15 @@
+---
+title: "PULPo: Probabilistic Unsupervised Laplacian Pyramid Registration"
+author: ["Leonard Siegert", "Paul Fischer", "Mattias P. Heinrich", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 717-727 (2024)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1007/978-3-031-72069-7_67"
+url_preprint: "https://arxiv.org/abs/2407.10567"
+journ: "Lecture Notes in Computer Science"
+issue: ""
+page: "717-727"
+year: 2024
+pub_number: 61
+image: "featured.png"
+---

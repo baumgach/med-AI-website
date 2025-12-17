@@ -1,0 +1,15 @@
+---
+title: "Attri-Net: A Globally and Locally Inherently Interpretable Model for Multi-Label Classification Using Class-Specific Counterfactuals"
+author: ["Susu Sun", "Stefano Woerner", "Andreas Maier", "Lisa M Koch", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2406.05477_, (2024)"
+
+categories: [interpretability]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2406.05477"
+journ: "arXiv preprint arXiv:2406.05477"
+issue: ""
+page: ""
+year: 2024
+pub_number: 56
+image: "featured.png"
+---
