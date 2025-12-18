@@ -1,0 +1,44 @@
+---
+title: "Student Research Assistant Position in LLMs (20% - 40%)"
+date: '2025-12-18'
+description: The University of Lucerne is seeking a motivated Student Research Assistant to support the development of an LLM-based system aimed at improving internal processes and workflows at the University. The position is available immediately for an initial period of 6 months (with the possibility of extension), at a 20% - 40% workload.
+
+format:
+  html:
+    title-block-style: none
+---
+
+## Description
+
+{{< meta description >}}
+
+
+## Your Responsibilities
+
+- Contribute to the design, development, and evaluation of a prototype LLM system for administrative and research support tasks
+- Develop Python-based components and data processing pipelines
+- Experiment with machine learning and large language model techniques in an HPC environment
+
+## Your Profile
+- Enrollment in a Bachelor’s or Master’s degree program in Computer Science, Data Science, Computational Sciences, or a related discipline at a Swiss university
+- Solid programming skills in Python
+- Some familiarity with machine learning concepts and common frameworks (e.g.,
+PyTorch, TensorFlow, scikit-learn)
+- Ideally, experience with LLMs and/or working on HPC clusters (SLURM, GPU
+workflows, etc.)
+- Strong communication skills in English (working language of the project)
+Applications from candidates with less experience in specific domains are still welcome. The motivation to learn and develop is highly valued.
+
+## We Offer
+- A dynamic, interdisciplinary research environment in a growing AI lab
+- Hands-on experience with modern LLM technologies and real-world applications
+- Flexible working hours and the possibility of hybrid work arrangements
+
+## How to Apply
+
+Please submit the following as a single PDF
+- A short motivation statement (max. 1 page)
+- CV
+- Current transcript of records
+Applications will be reviewed on a rolling basis until the position is filled.
+For questions, please contact Asst. Prof. Christian Baumgartner ([christian.baumgartner@unilu.ch](mailto:christian.baumgartner@unilu.ch)).
