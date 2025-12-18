@@ -6,7 +6,7 @@ page-layout: full
 <div class="gradient-text">
 
 <div class="welcome-headline">
-Welcome to the Medical AI Lab<br>
+Welcome to the Lucerne Medical AI Lab<br>
 </div>
 <div class="welcome-subheadline">
 Building safe and trustworthy AI for healthcare
