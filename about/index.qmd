@@ -1,5 +1,6 @@
 ---
 title: About our Group
+keywords: [machine learning, medical imaging, interpretable ML, XAI, robustness, uncertainty, AI]
 ---
 
 Our research group works on applying artificial intelligence (AI) and data science to clinical data to improve patient outcomes, with a particular focus on medical image analysis. AI and data science can support medicine in several ways:
