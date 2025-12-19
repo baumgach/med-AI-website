@@ -1,0 +1,27 @@
+---
+title: "HS251684 Introduction to Python for Health Sciences"
+semester: 'HS24'
+format:
+  html:
+    title-block-style: none
+---
+
+## Semester
+
+{{< meta semester >}}
+
+## Description
+
+Python is a crucial programming language in the fields of data analysis and machine learning. It is an essential tool for anyone aspiring to work with cutting-edge machine learning and data science technologies.
+In this course, students will learn to:
+- Set up Python on their personal computers.
+- Understand and use basic control structures and data types in Python.
+- Utilize key Python libraries for data analysis and visualization.
+- Train simple machine learning models.
+The course includes both lectures and hands-on practical sessions, allowing students to apply their newly acquired skills in real-world scenarios. 
+
+
+## Links
+
+Vorlesungsverzeichnis: [https://portal.unilu.ch/details?code=HS251684](https://portal.unilu.ch/details?code=HS251684)
+Moodle: [https://elearning.hsm-unilu.ch/course/view.php?id=807]<br>(https://elearning.hsm-unilu.ch/course/view.php?id=807)

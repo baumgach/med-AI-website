@@ -1,0 +1,25 @@
+---
+title: "FS241638 Introduction to Machine Learning for Health Science"
+semester: 'FS24'
+format:
+  html:
+    title-block-style: none
+---
+
+## Semester
+
+{{< meta semester >}}
+
+## Description
+
+Machine learning (ML) research is moving at a very rapid pace. Many of the recent developments in the automated analysis of images, text, as well as other data modalities has the potential to substantially reform healthcare. In this environment independently reading academic research papers, as well as a basic understanding of modern ML techniques are crucial.
+In this seminar, students will learn to read, understand, and present research paper on the topic of ML for healthcare.
+Each two hour session will see the presentation of some background by the instructor, as well as a student presentation on a applied ML for healthcare research paper, followed by a group discussion.
+Throughout, the semester we will go from simple applications of regression models, to more advanced techniques based on neural networks.
+Using the research papers as a red thread, we will see different medical data types (tabular data, text data, image data, time-series data), different modern ML tools (e.g. CNNs, Transformers, CLIP models) as well as different application areas of ML for health (data generation, risk stratification, decision support, workflow support, medical discovery).
+
+
+## Links
+
+Vorlesungsverzeichnis: [https://portal.unilu.ch/details?code=FS241638](https://portal.unilu.ch/details?code=FS241638)<br>
+Moodle: [https://elearning.hsm-unilu.ch/course/view.php?id=735](https://elearning.hsm-unilu.ch/course/view.php?id=735)
