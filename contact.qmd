@@ -4,7 +4,7 @@ about:
   id: contact
   template: solana
   image-shape: round
-  image: people/baumgartner-christian/avatar.png
+  image: people/baumgartner-christian/avatar.jpg
 # page-layout: full
 ---
 
