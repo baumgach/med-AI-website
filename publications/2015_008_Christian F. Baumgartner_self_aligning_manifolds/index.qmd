@@ -7,6 +7,7 @@ categories: []
 url_source: "https://doi.org/10.1007/978-3-319-19992-4_28"
 url_preprint: ""
 journ: "Lecture Notes in Computer Science"
+conference: "IPMI 2015"
 issue: ""
 page: "363-374"
 year: 2015

@@ -7,6 +7,7 @@ categories: [interpretability]
 url_source: "https://doi.org/10.1007/978-3-031-43895-0_40"
 url_preprint: "https://arxiv.org/abs/2307.12344"
 journ: "Lecture Notes in Computer Science"
+conference: "MICCAI 2023"
 issue: ""
 page: "425-434"
 year: 2023

@@ -6,9 +6,10 @@ publication: "_Medical Imaging with Deep Learning_, (2024)"
 categories: [uncertainty]
 url_source: "https://openreview.net/forum?id=kcbAZwxCFV"
 url_preprint: ""
-journ: "Medical Imaging with Deep Learning"
-issue: ""
-page: ""
+journ: "Proceedings of Machine Learning Research"
+conference: "MIDL 2024"
+issue: "25-"
+page: "1725-1740"
 year: 2024
 pub_number: 58
 image: "featured.png"

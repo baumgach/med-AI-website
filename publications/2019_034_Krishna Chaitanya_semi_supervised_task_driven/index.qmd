@@ -7,6 +7,7 @@ categories: []
 url_source: "https://doi.org/10.1007/978-3-030-20351-1_3"
 url_preprint: "https://arxiv.org/abs/1902.05396"
 journ: "Lecture Notes in Computer Science"
+conference: "IPMI 2019"
 issue: ""
 page: "29-41"
 year: 2019

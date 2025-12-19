@@ -1,12 +1,13 @@
 ---
 title: "Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification"
 author: ["Susu Sun", "Dominique van Midden", "Geert Litjens", "Christian F. Baumgartner"]
-publication: "MICCAI 2025, _Lecture Notes in Computer Science_, 507-517 (2025)"
+publication: "_Lecture Notes in Computer Science_, 507-517 (2025)"
 
 categories: [interpretability]
 url_source: "https://doi.org/10.1007/978-3-032-05185-1_49"
 url_preprint: "https://arxiv.org/abs/2503.08384"
 journ: "Lecture Notes in Computer Science"
+conference: "MICCAI 2025"
 issue: ""
 page: "507-517"
 year: 2025

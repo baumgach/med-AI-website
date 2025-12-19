@@ -7,6 +7,7 @@ categories: [uncertainty]
 url_source: "https://doi.org/10.1007/978-3-031-17247-2_3"
 url_preprint: "https://arxiv.org/abs/2208.03161"
 journ: "Lecture Notes in Computer Science"
+conference: "MLMIR workshop @ MICCAI 2022"
 issue: ""
 page: "24-33"
 year: 2022

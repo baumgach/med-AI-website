@@ -3,12 +3,13 @@ title: "Inherently interpretable multi-label classification using class-specific
 author: ["Susu Sun", "Stefano Woerner", "Andreas Maier", "Lisa M Koch", "Christian F. Baumgartner"]
 publication: "_Journal for Machine Learning for Biomedical Imaging (MELBA)_, (2023)"
 
-categories: []
-url_source: ""
+categories: [interpretability]
+url_source: "https://proceedings.mlr.press/v227/sun24a/sun24a.pdf"
 url_preprint: "https://arxiv.org/abs/2303.00500"
-journ: "Journal for Machine Learning for Biomedical Imaging (MELBA)"
-issue: ""
-page: ""
+journ: "Proceedings of Machine Learning Research"
+conference: "MIDL 2023"
+issue: "227"
+page: "937-956"
 year: 2023
 pub_number: 50
 image: "featured.png"

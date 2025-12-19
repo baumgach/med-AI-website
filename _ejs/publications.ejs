@@ -28,12 +28,9 @@
                 
                 <div class="metadata-value listing-pub-journal listing-publication">
                     <% if (item.journ) { %>
-                        <i><%= item.journ %></i><% if (item.issue) { %>, <b><%= item.issue %></b><% } %><% if (item.page) { %>, <%= item.page %><% } %><% if (item.year) { %> (<%= item.year %>)<% } %><br>
+                        <% if (item.conference) { %><i><%= item.conference %>, </i><% } %><i><%= item.journ %></i><% if (item.issue) { %>, <b><%= item.issue %></b><% } %><% if (item.page) { %>, <%= item.page %><% } %><% if (item.year) { %> (<%= item.year %>)<% } %><br>
                         
                         <% } %>
-                        
-                        
-                        
                         
                 </div>
                     
@@ -49,9 +46,9 @@
         </div>
         <div class="metadata">
             <!-- <a href="<%- item.path %>"> -->
-                <div class="listing-pub-number">
+                <!-- <div class="listing-pub-number">
                     <%= item.pub_number %><br> 
-                </div>
+                </div> -->
 
             <!-- </a> -->
             <% if (item.url_source) { %>

@@ -4,9 +4,9 @@ author: ["Susu Sun", "Stefano Woerner", "Andreas Maier", "Lisa M Koch", "Christi
 publication: "_arXiv preprint arXiv:2406.05477_, (2024)"
 
 categories: [interpretability]
-url_source: ""
+url_source: "https://www.melba-journal.org/pdf/2025:028.pdf"
 url_preprint: "https://arxiv.org/abs/2406.05477"
-journ: "arXiv preprint arXiv:2406.05477"
+journ: "Journal of Machine Learning for Biomedical Research (MELBA)"
 issue: ""
 page: ""
 year: 2024

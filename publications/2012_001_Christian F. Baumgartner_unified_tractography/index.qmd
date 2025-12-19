@@ -8,7 +8,7 @@ url_source: ""
 url_preprint: ""
 journ: "Computational Diffusion MRI Workshop of MICCAI, Nice"
 issue: ""
-page: "27--32"
+page: "27-32"
 year: 2012
 pub_number: 1
 ---

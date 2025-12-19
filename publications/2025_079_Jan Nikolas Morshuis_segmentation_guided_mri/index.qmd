@@ -1,15 +1,16 @@
 ---
 title: "Segmentation-Guided MRI Reconstruction for Meaningfully Diverse Reconstructions"
 author: ["Jan Nikolas Morshuis", "Matthias Hein", "Christian F. Baumgartner"]
-publication: "_Lecture Notes in Computer Science_, 180-190 (2025)"
+publication: "_Lecture Notes in Computer Science_, 180-190 (2024)"
 
 categories: [uncertainty]
 url_source: "https://doi.org/10.1007/978-3-031-72744-3_18"
 url_preprint: "https://arxiv.org/abs/2407.18026"
 journ: "Lecture Notes in Computer Science"
+conference: "DGM4MICCAI workshop @ MICCAI 2024"
 issue: ""
 page: "180-190"
-year: 2025
+year: 2024
 pub_number: 79
 image: "featured.png"
 ---

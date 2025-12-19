@@ -7,6 +7,7 @@ categories: []
 url_source: "https://doi.org/10.1007/978-3-030-00919-9_32"
 url_preprint: "https://arxiv.org/abs/1807.08935"
 journ: "Lecture Notes in Computer Science"
+conference: "MLMI workshop @ MICCAI 2018"
 issue: ""
 page: "276-284"
 year: 2018

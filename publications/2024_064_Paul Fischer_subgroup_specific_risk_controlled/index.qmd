@@ -7,6 +7,7 @@ categories: [uncertainty]
 url_source: "https://doi.org/10.1007/978-3-031-72117-5_65"
 url_preprint: "https://arxiv.org/abs/2407.08432"
 journ: "Lecture Notes in Computer Science"
+conference: "MICCAI 2024"
 issue: ""
 page: "696-706"
 year: 2024

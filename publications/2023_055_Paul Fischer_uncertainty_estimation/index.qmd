@@ -7,6 +7,7 @@ categories: [uncertainty]
 url_source: "https://doi.org/10.1007/978-3-031-44336-7_9"
 url_preprint: "https://arxiv.org/abs/2308.02631"
 journ: "Lecture Notes in Computer Science"
+conference: "UNSURE workshop @ MICCAI 2023"
 issue: ""
 page: "84-94"
 year: 2023

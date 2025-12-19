@@ -4,10 +4,12 @@ listing:
   - id: pubs
     template: ../_ejs/publications.ejs
     contents: ../publications/**/*.qmd
-    sort: "pub_number desc"
+    sort: 
+      - "year desc"
+      - "pub_number desc"
     page-size: 30
     filter-ui: true
-    fields: [image, title, publication, author,url_source]
+    fields: [image, title, conference, publication, author,url_source]
 page-layout: full
 ---
 
