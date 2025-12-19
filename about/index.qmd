@@ -1,0 +1,21 @@
+---
+title: About our Group
+---
+
+Our research group works on applying artificial intelligence (AI) and data science to clinical data to improve patient outcomes, with a particular focus on medical image analysis. AI and data science can support medicine in several ways:
+
+Making medical data analysis faster and more accessible, for example by partially automating diagnosis, outcome prediction, image quantification, and reconstruction.
+
+Enabling new clinical workflows that would not be feasible without AI support.
+
+Extracting insights from large datasets to guide treatment decisions, clinical research, and drug development.
+
+Although AI is widely used in areas such as voice assistance, content moderation, and fraud detection, its adoption in clinical practice remains limited. Healthcare is a high-stakes setting where methods must meet high standards of reliability and robustness. In addition, the black-box nature of many neural networks makes it difficult for clinicians to interpret results and explain decisions to patients. These issues also play a central role in regulatory and certification processes for medical AI.
+
+To address this gap between machine learning and clinical practice, our group focuses on three main research directions: uncertainty quantification, interpretability, and methods that generalize across tasks.
+
+![Alt text](\images/bowling.jpg)
+
+## Relationship to Tübingen
+
+The group originated as the Machine Learning in Medical Image Analysis group at the University of Tübingen in 2021. In 2024, Christian Baumgartner moved to the University of Lucerne. During the transition period, he held appointments at both institutions and continues to supervise PhD students at each.
