@@ -32,9 +32,11 @@ website:
     logo-alt: "Medical AI Group"
     left:
       - href: about/index.qmd
+        text: about
       - href: people/index.qmd
         text: people
       - href: research/index.qmd
+        text: research
       - href: publications/index.qmd
       - href: jobs/index.qmd
       - href: teaching/index.qmd
