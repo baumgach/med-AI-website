@@ -81,3 +81,28 @@ page-layout: full
 ::: {#phdstudent-co}
 :::
 
+## Alumni
+
+### Visitors
+
+- Nina Weng (PhD exchange student from DTU)
+- Jakob Lønborg Christensen (PhD exchange student from DTU)
+
+### Master students
+
+- Carina Schmidt (Master thesis Tübingen)
+- Martin Paulikat (Master thesis Tübingen)
+- Simon Gutwein (Master thesis Tübingen)
+- Amel Abdelraheem (Research exchange and master thesis Tübingen)
+- Hannah Willms (Research Project Tübingen)
+- Arthur Jacques (HiWi Tübingen)
+- Bartłomiej Baranowski (HiWi Tübingen)
+- Dustin Theobald (Master thesis Tübingen)
+- Leonard Siegert (Master thesis Tübingen)
+- Mehrin Azan (Research Project Tübingen)
+
+### Medical students
+
+- Stephan Wunderlich (Research project Tübingen)
+- David Jakobs (Research project Tübingen)
+
