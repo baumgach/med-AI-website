@@ -1,16 +1,10 @@
 ---
 title: "HS251113 Introduction to Python for Health Sciences"
 semester: 'HS25'
+order: 3
 format:
   html:
     title-block-style: none
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-meta-contents, .quarto-title-meta-heading {
-        display: none;
-      }
-      </style>
 ---
 
 ## Semester

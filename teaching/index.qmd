@@ -2,7 +2,7 @@
 title: Teaching
 listing: 
   type: default
-  sort: "semester desc"
+  sort: "order desc"
   fields: [semester, title] 
 page-layout: full
 ---

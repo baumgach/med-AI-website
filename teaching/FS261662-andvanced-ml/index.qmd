@@ -1,0 +1,31 @@
+---
+title: "FS261662 Advanced Machine Learning for Data Analysis"
+semester: 'FS26'
+order: 4
+format:
+  html:
+    title-block-style: none
+---
+
+## Semester
+
+{{< meta semester >}}
+
+## Description
+
+Advanced machine learning techniques such as large language models (LLMs), vision-language models (VLMs) as well as dimensionality reduction techniques such as t-SNE or UMAP have become foundational tools in data analysis and artificial intelligence. They are increasingly important in healthcare, research, and industry applications. In this course, students will learn to:
+
+- Use state-of-the-art LLMs through common interfaces such as Hugging Face, Google Gemini, and OpenAI.
+- Run transformer-based models locally on their laptops and understand practical hardware considerations.
+- Apply LLMs to real-world healthcare tasks such as processing large text corpora, screening abstracts, classification, and summarization.
+- Work with different model families, including BERT-like models, GPT-style models, and CLIP for multimodal tasks.
+- Design effective prompts and recognize common failure modes, biases, and ethical challenges of LLMs.
+- Build complete Python workflows that integrate LLMs into data analysis and machine-learning pipelines.
+
+The course combines lectures with extensive hands-on exercises, enabling students to directly apply LLM-based methods to relevant healthcare examples.
+
+
+## Links
+
+Vorlesungsverzeichnis: [https://portal.unilu.ch/details?code=FS261662](https://portal.unilu.ch/details?code=FS261662) <br>
+Moodle: [https://elearning.hsm-unilu.ch/course/view.php?id=1009](https://elearning.hsm-unilu.ch/course/view.php?id=1009)

@@ -1,6 +1,7 @@
 ---
-title: "HS251684 Introduction to Python for Health Sciences"
+title: "HS241684 Introduction to Python for Health Sciences"
 semester: 'HS24'
+order: 2
 format:
   html:
     title-block-style: none
