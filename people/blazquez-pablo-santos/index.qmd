@@ -1,0 +1,52 @@
+---
+title: &TITLE Pablo Santos Blázquez
+first: Pablo Santos
+last: Blázquez
+people_group: masterstudent
+education: M.Sc. Machine Learning | University of Tübingen | 2026 (expected) <br> Master’s degree in Intelligent System | Universidad de Salamanca | 2024 <br> Bachelor’s degree in Computer Engineering (Graduate Award for Excellence) | Universidad de Salamanca | 2023
+email: "pablo.santos-blazquez@student.uni-tuebingen.de"
+subtitle: Research Project Student
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:pablo.santos-blazquez@student.uni-tuebingen.de
+---
+
+<hr>
+
+
+:::{#about}
+
+Pablo is doing a research project on concept autodiscovery in retinal images in our lab. 
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+

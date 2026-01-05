@@ -36,6 +36,15 @@ listing:
     sort: last
     type: grid
     fields: [title, subtitle, image, education]
+  - id: masterstudent
+    include: 
+      people_group: "masterstudent"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
   - id: phdstudent-co
     include: 
       people_group: "phdstudent-co"
@@ -79,6 +88,13 @@ page-layout: full
 
 
 ::: {#phdstudent-co}
+:::
+
+## Master Students
+
+
+
+::: {#masterstudent}
 :::
 
 ## Alumni
