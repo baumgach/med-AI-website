@@ -57,6 +57,7 @@
       "/people/sun-susu/index.html",
       "/people/woerner-stefano/index.html",
       "/people/wundram-anna/index.html",
+      "/people/blazquez-pablo-santos/index.html",
       "/people/frotscher-alexander/index.html",
       "/people/kapoor-jaivardhan/index.html",
       "/people/koch-michelle/index.html"
@@ -75,28 +76,6 @@
       "/publications/2024_058_Anna M. Wundram_leveraging_probabilistic/index.html",
       "/publications/2023_055_Paul Fischer_uncertainty_estimation/index.html",
       "/publications/2023_051_Aniket A. Tolpadi_k2s_challenge/index.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2025-12-08-eurips/index.html",
-      "/news/2025-09-30-miccai/index.html",
-      "/news/2025-09-20-new-website/index.html"
-    ]
-  },
-  {
-    "listing": "/jobs/index.html",
-    "items": [
-      "/jobs/2025-12-18-hiwi/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/2025-12-08-eurips/index.html",
-      "/news/2025-09-30-miccai/index.html",
-      "/news/2025-09-20-new-website/index.html"
     ]
   },
   {
@@ -182,6 +161,32 @@
       "/publications/2012_002_Christian F. Baumgartner_filtered_multi_tensor/index.html",
       "/publications/2012_001_Christian F. Baumgartner_unified_tractography/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/2025-12-08-eurips/index.html",
+      "/news/2025-09-30-miccai/index.html",
+      "/news/2025-09-20-new-website/index.html"
+    ]
+  },
+  {
+    "listing": "/jobs/index.html",
+    "items": [
+      "/jobs/2025-12-18-hiwi/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2025-12-08-eurips/index.html",
+      "/news/2025-09-30-miccai/index.html",
+      "/news/2025-09-20-new-website/index.html"
+    ]
+  },
+  {
+    "listing": "/people/blazquez-pablo-santos/index.html",
+    "items": []
   },
   {
     "listing": "/people/frotscher-alexander/index.html",
