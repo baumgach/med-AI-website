@@ -39,6 +39,9 @@ about:
     - icon: github
       text: GitHub 
       href: https://github.com/baumgach
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christian-baumgartner-0162077b/
 ---
 
 <hr>

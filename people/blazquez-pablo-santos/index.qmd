@@ -29,6 +29,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:pablo.santos-blazquez@student.uni-tuebingen.de
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pablo-santos-bl%C3%A1zquez-298406285/
 ---
 
 <hr>
