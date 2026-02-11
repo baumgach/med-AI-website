@@ -172,9 +172,7 @@
   },
   {
     "listing": "/jobs/index.html",
-    "items": [
-      "/jobs/2025-12-18-hiwi/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/news/index.html",
@@ -182,6 +180,12 @@
       "/news/2025-12-08-eurips/index.html",
       "/news/2025-09-30-miccai/index.html",
       "/news/2025-09-20-new-website/index.html"
+    ]
+  },
+  {
+    "listing": "/old_job/index.html",
+    "items": [
+      "/old_job/2025-12-18-hiwi/index.html"
     ]
   },
   {
