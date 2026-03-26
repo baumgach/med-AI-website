@@ -1,0 +1,49 @@
+---
+title: &TITLE Chiara Schäli
+first: Chiara
+last: Schäli
+people_group: masterstudent
+education: M.Sc. Health Sciences | University of Lucerne | 2027 (expected) <br> B.Sc. Physiotherapy | Bern University of Applied Sciences | 2021
+subtitle: Master thesis student
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Chiara is working on correlating stroke lesion characteristics 
+to clinical outcomes in collaboration with 
+the [Clinic for Neurorehabilitation](https://www.luks.ch/standorte/standort-luzern/klinik-fuer-neurologie-und-neurorehabilitation) at LUKS.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s publications in our group
+
+:::{#pubs}
+:::
+
