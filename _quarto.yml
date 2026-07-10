@@ -4,11 +4,15 @@ project:
     - "*.qmd"
     - "!publications/_template/"
     - "!people/_template/"
+  # Copied verbatim into the build output so the GitHub Pages custom domain
+  # survives every `quarto publish gh-pages` (which rewrites the gh-pages branch).
+  resources:
+    - CNAME
 
 
 website:
   title: "Lucerne Medical AI Lab"
-  site-url: "https://baumgach.github.io/med-AI-website"
+  site-url: "https://lumai-lab.ch"
   repo-url: "https://github.com/baumgach/med-AI-website"
   favicon: images/favicon.png
   description: "Research group at the University of Lucerne working on interpretable and uncertainty-aware AI for medical imaging and healthcare."
