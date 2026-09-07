@@ -18,6 +18,12 @@ website:
   description: "Research group at the University of Lucerne working on interpretable and uncertainty-aware AI for medical imaging and healthcare."
   google-analytics: "G-RYHMRSLGSM"
 
+  # Social link previews (Open Graph / Twitter cards). `image` is the default
+  # preview picture; individual pages can override it with their own `image:`.
+  image: images/social-card.png
+  open-graph: true
+  twitter-card: true
+
   back-to-top-navigation: true
   page-navigation: false
   search: true
