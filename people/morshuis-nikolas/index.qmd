@@ -2,10 +2,11 @@
 title: &TITLE Jan Nikolas Morshuis
 first: Jan Nikolas
 last: Morshuis
-people_group: phdstudent
+people_group: "alumni"
 education: M.Sc. Physics and Astronomy | University of Heidelberg | 2019 <br> B.Sc. Physics and Astronomy | University of Nijmegen Netherlands | 2016
 email: "nikolas.morshuis@uni-tuebingen.de"
 subtitle: PhD student - University of Tübingen
+altsubtitle: "Former PhD student - University of Tübingen <br> Now Machine Learning Engineer, metamorphosis GmbH"
 image: avatar.jpg
 listing:
   id: pubs

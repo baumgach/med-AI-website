@@ -1,12 +1,10 @@
 ---
-title: &TITLE Michelle Koch
-first: Michelle
-last: Koch
-people_group: "alumni"
-education: Master of Science in Applied Information and Data Science | Hochschule Luzern (HSLU) | 2025 <br> Bachelor of Arts (BA) in Wirtschaftswissenschaften | University of Lucerne | 2022
-email: "michelle.koch@hslu.ch"
-subtitle: PhD student - HSLU
-altsubtitle: "Former PhD student - HSLU"
+title: &TITLE Daniela Gasser
+first: Daniela
+last: Gasser
+people_group: masterstudent
+education: M.Sc. Health Sciences | University of Lucerne
+subtitle: Master thesis student
 image: avatar.jpg
 listing:
   id: pubs
@@ -26,7 +24,6 @@ about:
   template: trestles
   image-shape: round
   image: avatar.jpg
-
 ---
 
 <hr>
@@ -34,7 +31,7 @@ about:
 
 :::{#about}
 
-Michelle is co-supervised by PD Dr. Luis Terán (HSLU) and Christian Baumgartner
+Daniela is a Master's student in our lab.
 
 ## Education
 {{< meta education >}}
@@ -47,4 +44,3 @@ Michelle is co-supervised by PD Dr. Luis Terán (HSLU) and Christian Baumgartner
 
 :::{#pubs}
 :::
-

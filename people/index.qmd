@@ -99,6 +99,11 @@ page-layout: full
 
 ## Alumni
 
+### Former PhD students
+
+::: {#alumni}
+:::
+
 ### Visitors
 
 - Nina Weng (PhD exchange student from DTU)
@@ -116,6 +121,8 @@ page-layout: full
 - Dustin Theobald (Master thesis Tübingen)
 - Leonard Siegert (Master thesis Tübingen)
 - Mehrin Azan (Research Project Tübingen)
+- Pablo Santos Blázquez (Research project Tübingen)
+- Michael Burch (Student assistant Lucerne)
 
 ### Medical students
 

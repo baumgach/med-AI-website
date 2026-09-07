@@ -2,10 +2,11 @@
 title: &TITLE Paul Fischer
 first: Paul
 last: Fischer
-people_group: phdstudent
+people_group: "alumni"
 education: M.Sc. Computer Science | University of Tübingen | 2021 <br> B.Sc. Cognitive Science | University of Tübingen | 2019
 email: "paul.fischer@uni-tuebingen.de"
 subtitle: PhD student - University of Tübingen
+altsubtitle: "Former PhD student - University of Tübingen <br> Now Postdoc, Biomedical Engineering, University of Basel"
 image: avatar.jpg
 listing:
   id: pubs
