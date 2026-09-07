@@ -1,0 +1,23 @@
+---
+title: "Uncertainty Summer School 2026"
+semester: 'Summer 2026'
+order: 5
+format:
+  html:
+    title-block-style: none
+---
+
+## Semester
+
+{{< meta semester >}}
+
+## Description
+
+Christian gave a lecture at the 16th Ph.D. Summer School on Uncertainty in Machine Learning (10 - 14 August 2026, Svendborg, Denmark), jointly organised by DIKU, DTU, ITU and AAU. The school covers probabilistic approaches and approximate inference, ensembles in deep learning, the different sources of uncertainty, and applications in healthcare, autonomous systems and scientific discovery, combined with hands-on project work.
+
+The lecture, *Aleatoric and Epistemic Uncertainty in Medical Imaging: A deep dive into the decomposition and its failure modes*, examined the aleatoric/epistemic decomposition of predictive uncertainty and the situations in which it breaks down in medical imaging applications.
+
+## Links
+
+Summer school website: [https://uncertainty.compute.dtu.dk/](https://uncertainty.compute.dtu.dk/) <br>
+Slides: [Aleatoric and Epistemic Uncertainty in Medical Imaging](files/2026-uncertainty-summer-school-lecture1.pdf)
