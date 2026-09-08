@@ -1,0 +1,15 @@
+---
+title: "Uncertainty estimation for reliable neural network-based radiotherapy dose modelling using Monte Carlo dropout, mean variance estimation and deep ensemble"
+author: ["Moritz Schneider", "Tabea Eberhardt", "Cihan Gani", "Paul Fischer", "Christian F. Baumgartner", "Daniela Thorwarth"]
+publication: "_Physics and Imaging in Radiation Oncology_, **41** 101072 (2026)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1016/j.phro.2026.101072"
+url_preprint: ""
+journ: "Physics and Imaging in Radiation Oncology"
+issue: 41
+page: "101072"
+year: 2026
+pub_number: 90
+image: "featured.png"
+---

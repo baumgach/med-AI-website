@@ -1,0 +1,15 @@
+---
+title: "Rethinking Uncertainty Quantification and Entanglement in Image Segmentation"
+author: ["Jakob Lønborg Christensen", "Vedrana Andersen Dahl", "Morten Rieger Hannemose", "Anders Bjorholm Dahl", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2603.18792_, (2026)"
+
+categories: [uncertainty]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2603.18792"
+journ: "arXiv preprint arXiv:2603.18792"
+issue: ""
+page: ""
+year: 2026
+pub_number: 88
+image: "featured.png"
+---

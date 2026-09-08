@@ -1,0 +1,16 @@
+---
+title: "Universal Algorithm-Implicit Learning"
+author: ["Stefano Woerner", "Seong Joon Oh", "Christian F. Baumgartner"]
+publication: "_arXiv preprint arXiv:2602.14761_, (2026)"
+
+categories: [task-robustness]
+url_source: ""
+url_preprint: "https://arxiv.org/abs/2602.14761"
+journ: "arXiv preprint arXiv:2602.14761"
+conference: "ICML 2026"
+issue: ""
+page: ""
+year: 2026
+pub_number: 91
+image: "featured.png"
+---

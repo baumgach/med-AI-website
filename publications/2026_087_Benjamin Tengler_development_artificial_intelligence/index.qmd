@@ -1,0 +1,15 @@
+---
+title: "Development of an artificial intelligence driven dose prediction pipeline for online adaptive magnetic resonance-guided radiotherapy"
+author: ["Benjamin Tengler", "Moritz Schneider", "Marcel Nachbar", "Simon Boeke", "Cihan Gani", "Maximilian Niyazi", "Paul Fischer", "Christian F. Baumgartner", "Daniela Thorwarth"]
+publication: "_Physics and Imaging in Radiation Oncology_, **40** 101048 (2026)"
+
+categories: []
+url_source: "https://doi.org/10.1016/j.phro.2026.101048"
+url_preprint: ""
+journ: "Physics and Imaging in Radiation Oncology"
+issue: 40
+page: "101048"
+year: 2026
+pub_number: 87
+image: "featured.png"
+---

@@ -1,0 +1,16 @@
+---
+title: "SEG4SEG: Identifying Systematic Failure Modes in Segmentation by Subgroup Discovery Methods"
+author: ["Nina Weng", "Eike Petersen", "Alceu Bissoto", "Susu Sun", "Lisa M. Koch", "Aasa Feragen", "Siavash Bigdeli", "Christian F. Baumgartner"]
+publication: "_Proceedings of Machine Learning Research_, **315** 1983-2002 (2026)"
+
+categories: [uncertainty]
+url_source: "https://proceedings.mlr.press/v315/weng26a.html"
+url_preprint: "https://openreview.net/forum?id=dbZEIwiAon"
+journ: "Proceedings of Machine Learning Research"
+conference: "MIDL 2026"
+issue: 315
+page: "1983-2002"
+year: 2026
+pub_number: 89
+image: "featured.png"
+---

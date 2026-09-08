@@ -1,0 +1,16 @@
+---
+title: "Segmenting Brain Regions in Low Field Pediatric Brain MR Images Using (Symmetric) nnU-Net ResEnc"
+author: ["Jan Nikolas Morshuis", "Matthias Hein", "Christian F. Baumgartner"]
+publication: "_Lecture Notes in Computer Science_, 41-49 (2025)"
+
+categories: []
+url_source: "https://doi.org/10.1007/978-3-032-14417-1_4"
+url_preprint: ""
+journ: "Lecture Notes in Computer Science"
+conference: "LISA 2025 Challenge, MICCAI 2025"
+issue: ""
+page: "41-49"
+year: 2025
+pub_number: 84
+image: "featured.png"
+---

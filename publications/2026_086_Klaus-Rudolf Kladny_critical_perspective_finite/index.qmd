@@ -1,0 +1,15 @@
+---
+title: "A critical perspective on finite sample conformal prediction theory in medical applications"
+author: ["Klaus-Rudolf Kladny", "Bernhard Schölkopf", "Lisa Koch", "Christian F. Baumgartner", "Michael Muehlebach"]
+publication: "_Artificial Intelligence in Medicine_, **180** 103462 (2026)"
+
+categories: [uncertainty]
+url_source: "https://doi.org/10.1016/j.artmed.2026.103462"
+url_preprint: "https://arxiv.org/abs/2512.14727"
+journ: "Artificial Intelligence in Medicine"
+issue: 180
+page: "103462"
+year: 2026
+pub_number: 86
+image: "featured.png"
+---
