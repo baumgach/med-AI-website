@@ -1,8 +1,11 @@
 ---
 title: Jobs
-listing: 
-  type: default
-  sort: "date desc"
-  fields: [date, title, description]
 page-layout: full
 ---
+
+We currently have no open positions.
+
+If you are interested in joining the group, we are always happy to hear from
+motivated students and researchers. Please feel free to
+[get in touch](../contact.qmd) — and keep an eye on this page, where new
+openings will be advertised.
