@@ -25,6 +25,22 @@
     <lastmod>2025-12-19T09:15:44.591Z</lastmod>
   </url>
   <url>
+    <loc>https://lumai-lab.ch/publications/2026_090_Moritz Schneider_uncertainty_estimation_reliable/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2026_088_Jakob Lønborg Christensen_rethinking_uncertainty_quantification/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2026_086_Klaus-Rudolf Kladny_critical_perspective_finite/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.414Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2025_084_Jan Nikolas Morshuis_segmenting_brain_regions/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.412Z</lastmod>
+  </url>
+  <url>
     <loc>https://lumai-lab.ch/publications/2025_082_Jan Nikolas Morshuis_understanding_benefits/index.html</loc>
     <lastmod>2025-12-17T21:01:38.037Z</lastmod>
   </url>
@@ -217,32 +233,52 @@
     <lastmod>2026-02-11T12:13:40.121Z</lastmod>
   </url>
   <url>
-    <loc>https://lumai-lab.ch/news/2025-12-08-eurips/index.html</loc>
-    <lastmod>2025-12-19T19:20:02.138Z</lastmod>
+    <loc>https://lumai-lab.ch/news/2026-06-24-morshuis-phd/index.html</loc>
+    <lastmod>2026-09-08T07:35:57.891Z</lastmod>
   </url>
   <url>
-    <loc>https://lumai-lab.ch/news/2025-09-20-new-website/index.html</loc>
-    <lastmod>2025-12-19T16:17:46.318Z</lastmod>
+    <loc>https://lumai-lab.ch/news/2026-04-30-icml/index.html</loc>
+    <lastmod>2026-09-08T07:35:57.889Z</lastmod>
   </url>
   <url>
-    <loc>https://lumai-lab.ch/index.html</loc>
-    <lastmod>2025-12-19T16:35:02.185Z</lastmod>
+    <loc>https://lumai-lab.ch/news/2026-01-21-fischer-phd/index.html</loc>
+    <lastmod>2026-09-08T07:35:57.887Z</lastmod>
   </url>
   <url>
-    <loc>https://lumai-lab.ch/about/index.html</loc>
-    <lastmod>2025-12-19T16:46:37.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lumai-lab.ch/contact.html</loc>
-    <lastmod>2025-12-19T10:28:23.523Z</lastmod>
+    <loc>https://lumai-lab.ch/news/2025-09-30-miccai/index.html</loc>
+    <lastmod>2025-12-19T16:08:21.283Z</lastmod>
   </url>
   <url>
     <loc>https://lumai-lab.ch/jobs/index.html</loc>
     <lastmod>2025-12-18T17:15:10.822Z</lastmod>
   </url>
   <url>
-    <loc>https://lumai-lab.ch/news/2025-09-30-miccai/index.html</loc>
-    <lastmod>2025-12-19T16:08:21.283Z</lastmod>
+    <loc>https://lumai-lab.ch/contact.html</loc>
+    <lastmod>2025-12-19T10:28:23.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/about/index.html</loc>
+    <lastmod>2025-12-19T16:46:37.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/index.html</loc>
+    <lastmod>2025-12-19T16:35:02.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/news/2025-09-20-new-website/index.html</loc>
+    <lastmod>2025-12-19T16:17:46.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/news/2025-12-08-eurips/index.html</loc>
+    <lastmod>2025-12-19T19:20:02.138Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/news/2026-02-14-midl/index.html</loc>
+    <lastmod>2026-09-08T07:35:57.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/news/2026-06-18-saimi/index.html</loc>
+    <lastmod>2026-09-08T07:35:57.890Z</lastmod>
   </url>
   <url>
     <loc>https://lumai-lab.ch/news/index.html</loc>
@@ -439,6 +475,22 @@
   <url>
     <loc>https://lumai-lab.ch/publications/2025_083_Alexander Frotscher_unsupervised_anomaly/index.html</loc>
     <lastmod>2025-12-17T21:01:38.041Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2025_085_Jan Nikolas Morshuis_utilizing_ensemble_3d/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2026_087_Benjamin Tengler_development_artificial_intelligence/index.html</loc>
+    <lastmod>2026-09-08T07:58:34.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2026_089_Nina Weng_seg4seg_identifying_systematic/index.html</loc>
+    <lastmod>2026-09-08T07:49:57.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumai-lab.ch/publications/2026_091_Stefano Woerner_universal_algorithm_implicit/index.html</loc>
+    <lastmod>2026-09-08T07:49:57.975Z</lastmod>
   </url>
   <url>
     <loc>https://lumai-lab.ch/research/index.html</loc>

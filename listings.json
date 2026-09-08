@@ -12,6 +12,10 @@
   {
     "listing": "/research/uncertainty/index.html",
     "items": [
+      "/publications/2026_090_Moritz Schneider_uncertainty_estimation_reliable/index.html",
+      "/publications/2026_089_Nina Weng_seg4seg_identifying_systematic/index.html",
+      "/publications/2026_088_Jakob Lønborg Christensen_rethinking_uncertainty_quantification/index.html",
+      "/publications/2026_086_Klaus-Rudolf Kladny_critical_perspective_finite/index.html",
       "/publications/2025_079_Jan Nikolas Morshuis_segmentation_guided_mri/index.html",
       "/publications/2025_074_Jan Nikolas Morshuis_mind_detail/index.html",
       "/publications/2025_072_Anna M. Wundram_is_uncertainty/index.html",
@@ -40,6 +44,14 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/2026_091_Stefano Woerner_universal_algorithm_implicit/index.html",
+      "/publications/2026_090_Moritz Schneider_uncertainty_estimation_reliable/index.html",
+      "/publications/2026_089_Nina Weng_seg4seg_identifying_systematic/index.html",
+      "/publications/2026_088_Jakob Lønborg Christensen_rethinking_uncertainty_quantification/index.html",
+      "/publications/2026_087_Benjamin Tengler_development_artificial_intelligence/index.html",
+      "/publications/2026_086_Klaus-Rudolf Kladny_critical_perspective_finite/index.html",
+      "/publications/2025_085_Jan Nikolas Morshuis_utilizing_ensemble_3d/index.html",
+      "/publications/2025_084_Jan Nikolas Morshuis_segmenting_brain_regions/index.html",
       "/publications/2025_083_Alexander Frotscher_unsupervised_anomaly/index.html",
       "/publications/2025_082_Jan Nikolas Morshuis_understanding_benefits/index.html",
       "/publications/2025_081_Alceu Bissoto_subgroup_performance/index.html",
@@ -127,6 +139,7 @@
   {
     "listing": "/people/woerner-stefano/index.html",
     "items": [
+      "/publications/2026_091_Stefano Woerner_universal_algorithm_implicit/index.html",
       "/publications/2025_076_Stefano Woerner_navigating_data/index.html",
       "/publications/2025_066_Stefano Woerner_comprehensive_easy_to_use/index.html",
       "/publications/2024_059_Stefano Woerner_medimeta_easy_to_use/index.html",
@@ -169,6 +182,14 @@
   {
     "listing": "/people/baumgartner-christian/index.html",
     "items": [
+      "/publications/2026_091_Stefano Woerner_universal_algorithm_implicit/index.html",
+      "/publications/2026_090_Moritz Schneider_uncertainty_estimation_reliable/index.html",
+      "/publications/2026_089_Nina Weng_seg4seg_identifying_systematic/index.html",
+      "/publications/2026_088_Jakob Lønborg Christensen_rethinking_uncertainty_quantification/index.html",
+      "/publications/2026_087_Benjamin Tengler_development_artificial_intelligence/index.html",
+      "/publications/2026_086_Klaus-Rudolf Kladny_critical_perspective_finite/index.html",
+      "/publications/2025_085_Jan Nikolas Morshuis_utilizing_ensemble_3d/index.html",
+      "/publications/2025_084_Jan Nikolas Morshuis_segmenting_brain_regions/index.html",
       "/publications/2025_083_Alexander Frotscher_unsupervised_anomaly/index.html",
       "/publications/2025_082_Jan Nikolas Morshuis_understanding_benefits/index.html",
       "/publications/2025_081_Alceu Bissoto_subgroup_performance/index.html",
@@ -251,20 +272,30 @@
     ]
   },
   {
+    "listing": "/jobs/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/news/2026-06-24-morshuis-phd/index.html",
+      "/news/2026-06-18-saimi/index.html",
+      "/news/2026-04-30-icml/index.html",
+      "/news/2026-02-14-midl/index.html",
+      "/news/2026-01-21-fischer-phd/index.html",
       "/news/2025-12-08-eurips/index.html",
       "/news/2025-09-30-miccai/index.html",
       "/news/2025-09-20-new-website/index.html"
     ]
   },
   {
-    "listing": "/jobs/index.html",
-    "items": []
-  },
-  {
     "listing": "/news/index.html",
     "items": [
+      "/news/2026-06-24-morshuis-phd/index.html",
+      "/news/2026-06-18-saimi/index.html",
+      "/news/2026-04-30-icml/index.html",
+      "/news/2026-02-14-midl/index.html",
+      "/news/2026-01-21-fischer-phd/index.html",
       "/news/2025-12-08-eurips/index.html",
       "/news/2025-09-30-miccai/index.html",
       "/news/2025-09-20-new-website/index.html"
@@ -279,6 +310,8 @@
   {
     "listing": "/people/fischer-paul/index.html",
     "items": [
+      "/publications/2026_090_Moritz Schneider_uncertainty_estimation_reliable/index.html",
+      "/publications/2026_087_Benjamin Tengler_development_artificial_intelligence/index.html",
       "/publications/2025_070_Moritz Schneider_development_comprehensive/index.html",
       "/publications/2025_068_Paul Fischer_cute_mri_conformalized/index.html",
       "/publications/2025_067_Anna M. Wundram_conformal_performance/index.html",
@@ -307,6 +340,8 @@
   {
     "listing": "/people/morshuis-nikolas/index.html",
     "items": [
+      "/publications/2025_085_Jan Nikolas Morshuis_utilizing_ensemble_3d/index.html",
+      "/publications/2025_084_Jan Nikolas Morshuis_segmenting_brain_regions/index.html",
       "/publications/2025_082_Jan Nikolas Morshuis_understanding_benefits/index.html",
       "/publications/2025_079_Jan Nikolas Morshuis_segmentation_guided_mri/index.html",
       "/publications/2025_074_Jan Nikolas Morshuis_mind_detail/index.html",
@@ -318,6 +353,7 @@
   {
     "listing": "/people/sun-susu/index.html",
     "items": [
+      "/publications/2026_089_Nina Weng_seg4seg_identifying_systematic/index.html",
       "/publications/2025_081_Alceu Bissoto_subgroup_performance/index.html",
       "/publications/2025_078_Susu Sun_prototype_based_multiple/index.html",
       "/publications/2025_073_Susu Sun_label_free_concept/index.html",
@@ -345,6 +381,7 @@
   {
     "listing": "/research/meta-learning/index.html",
     "items": [
+      "/publications/2026_091_Stefano Woerner_universal_algorithm_implicit/index.html",
       "/publications/2025_083_Alexander Frotscher_unsupervised_anomaly/index.html",
       "/publications/2025_069_Alexander Frotscher_deep_unsupervised/index.html",
       "/publications/2025_066_Stefano Woerner_comprehensive_easy_to_use/index.html",
